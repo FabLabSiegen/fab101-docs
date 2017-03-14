@@ -1,0 +1,86 @@
+site_name: 'TITEL'
+repo_url: 'https://github.com/FabLabSiegen/docs'
+repo_name: 'GitHub'
+
+#todo
+#site_description: 'todo'
+#remote_branch: if we use GH pages
+
+
+pages:
+  - Community:
+    - Worum geht es?: 'index.md'
+    - Menschen: 'community/menschen.md'
+    - Communities: 'community/communities.md'
+    - Work with us!: 'community/workwithus.md'
+  - Forschung(sprojekte):
+    - Überblick: 'forschung/ueberblick.md'
+    - Methodik: 'forschung/forschungsmethodik.md'
+    - Publikationen: 'forschung/pubs.md'
+    - Projekt FAB101: 'forschung/fab101.md'
+    - Projekt 3dp4edu: 'forschung/3dp4edu.md'
+    - Projekt YALLAH: 'forschung/yallah.md'
+    - Projekt come_IN: 'forschung/comein.md'
+    - Projekt ZEIT.RAUM: 'forschung/zeitraum.md'
+    - Projekt Scoutopia: 'forschung/scoutopia.md'
+    - Projekt Faboule: 'forschung/faboule.md'
+    - Projekt EduFab: 'forschung/edufab.md'
+    - Projekt-Archiv: 'forschung/projektarchiv.md'
+  - Lehre & Materialien:
+    - Überblick: 'lehre/ueberblick.md'
+    - The Media Computing Project: 'lehre/lv_mcp.md'
+    - Seminar Arduino: 'lehre/lv_arduino.md'
+    - Lehrmaterialien allgemein:
+      - Einsteigerprojekt Arduino: 'lehre/lehrmix/arduinobeginner.md'
+    - Commons & Public Good: 'lehre/commons.md'
+    - Community-Arbeit:
+      - Social Media: 'lehre/communityarbeit/socialmedia.md'
+    - Governance & Sustainability:
+      - Hub governance?: 'lehre/hubgovernance.md'
+      - Hub sustainability?: 'lehre/hubsustainability.md'
+    - HCI & CSCW:
+      - HCI und CSCW?: 'lehre/hcicscw/hcicscw.md'
+      - Vorlesung HCI: 'lehre/hcicscw/lv-hci.md'
+      - HCI-Studio: 'lehre/hcicscw/lv-hci-studio.md'
+  - Hubs:
+    - Hubs?: 'hubs/hubs.md'
+    - Fab Lab Siegen:
+      - Über das Lab: 'hubs/fablabsiegen.md'
+      - Organisation & Mitarbeit: 'hubs/fablabsiegen.md'
+      - Regeln & Laborordnung: 'hubs/fls_laborordnung.md'
+      - Einweisungen: 'hubs/fls_einweisungen.md'
+      - open lab: 'hubs/fls_openlab.md'
+    - Kreativlabor Siegen: 'hubs/kreativlabor_siegen.md'
+    - Unverpackt Siegen?: 'hubs/unverpackt.md'
+    - Fab Lab Aachen: 'hubs/fablabaachen.md'
+    - Fab Lab Bremen: 'hubs/fablabbremen.md'
+    - Labs Folkwang: 'hubs/werkstaetten_folkwang.md'
+  #- Weitere Labs:
+  #  - Kreativlabor Siegen: 'labs/kreativlabor_siegen.md'
+  #- Ressourcen: 'ressourcen.md'
+  - Lab-Projekte:
+    - Überblick: 'projekte/ueberblick_projekte.md'
+    - Aya (DIY 3D Drucker): 'projekte/aya.md'
+    - Gamebly: 'projekte/gamebly.md'
+  - Support: 'support.md'
+  - Kontakt: 'kontakt.md'
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - toc(permalink=true)
+  - footnotes
+
+theme: 'material'
+extra:
+  palette:
+    primary: 'grey'
+    accent: 'orange'
+  font:
+#    text: 'Open Sans'
+    code: 'Inconsolata'
+  social:
+    - type: 'twitter'
+      link: 'https://twitter.com/cscwsiegen'
+    - type: 'facebook'
+      link: 'http://facebook.com/fablabsiegen'
