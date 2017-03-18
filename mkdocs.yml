@@ -1,4 +1,4 @@
-site_name: 'TITEL'
+site_name: 'FAB101'
 repo_url: 'https://github.com/oliverstickel/fab101-docs/'
 repo_name: 'GitHub'
 
@@ -72,6 +72,7 @@ markdown_extensions:
   - footnotes
 
 theme: 'material'
+theme_dir: 'mkdocs-material/material'
 extra:
   palette:
     primary: 'grey'
