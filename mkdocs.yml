@@ -74,6 +74,7 @@ markdown_extensions:
 theme: 'material'
 theme_dir: 'mkdocs-material/material'
 extra:
+  logo: 'images/logo.svg'
   palette:
     primary: 'grey'
     accent: 'orange'
