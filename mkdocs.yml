@@ -64,6 +64,7 @@ pages:
     - Gamebly: 'projekte/gamebly.md'
   - Support: 'support.md'
   - Kontakt: 'kontakt.md'
+  - Impressum: 'impressum.md'
 
 markdown_extensions:
   - admonition
