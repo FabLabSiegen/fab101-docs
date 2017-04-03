@@ -72,8 +72,9 @@ markdown_extensions:
   - toc(permalink=true)
   - footnotes
 
-theme: 'material'
+#theme: 'material'
 theme_dir: 'mkdocs-material/material'
+
 extra:
   logo: 'images/logo.svg'
   palette:
