@@ -46,10 +46,11 @@ pages:
     - Hubs?: 'hubs/hubs.md'
     - Fab Lab Siegen:
       - Über das Lab: 'hubs/fablabsiegen.md'
-      - Organisation & Mitarbeit: 'hubs/fablabsiegen.md'
+      - Organisation & Mitarbeit: 'hubs/fls_orga_mitarbeit.md'
       - Regeln & Laborordnung: 'hubs/fls_laborordnung.md'
       - Einweisungen: 'hubs/fls_einweisungen.md'
       - open lab: 'hubs/fls_openlab.md'
+      - Ausstattung: "hubs/fls_ausstattung.md"
     - Kreativlabor Siegen: 'hubs/kreativlabor_siegen.md'
     - Unverpackt Siegen?: 'hubs/unverpackt.md'
     - Fab Lab Aachen: 'hubs/fablabaachen.md'
@@ -60,7 +61,7 @@ pages:
   #- Ressourcen: 'ressourcen.md'
   - Lab-Projekte:
     - Überblick: 'projekte/ueberblick_projekte.md'
-    - Aya (DIY 3D Drucker): 'projekte/aya.md'
+    - AYA (DIY 3D Drucker): 'projekte/aya.md'
     - Gamebly: 'projekte/gamebly.md'
   - Support: 'support.md'
   - Kontakt: 'kontakt.md'
@@ -68,7 +69,7 @@ pages:
 
 markdown_extensions:
   - admonition
-  - codehilite
+  - codehilite(linenums=true)
   - toc(permalink=true)
   - footnotes
 

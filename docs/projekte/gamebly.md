@@ -16,7 +16,7 @@ Jasmin und David
 
 ## Syntax highlighting demo
 
-````arduino
+```arduino
 
 int timer = 100;           // The higher the number, the slower the timing.
 
@@ -47,7 +47,7 @@ void loop() {
   }
 }
 
-````
+```
 
 ## Installation zur Benutzung des NodeMCU-Boards
 Es müssen Treiber installiert werden (CP2102)
