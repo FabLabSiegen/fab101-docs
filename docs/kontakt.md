@@ -1,10 +1,16 @@
-# FAB101
+# Ansprechpartner
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras arcu libero, mollis sed massa vel, ornare viverra ex. Quisque volutpat erat ac nisi accumsan tempor.
+<img style="float: right; height: 150px; width: 150px; margin-right: 15px " src="/images/PersonPlaceholder.png">
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras arcu libero, mollis sed massa vel, ornare viverra ex. Mauris a ullamcorper lacus. Nullam urna elit, malesuada eget finibus ut, ullamcorper ac tortor. Vestibulum sodales pulvinar nisl, pharetra aliquet est. Quisque volutpat erat ac nisi accumsan tempor.
+Vorname Nachname  
 
+:fa-home:  
+Adresszeile 1  
+Adresszeile 2  
+Adresszeile 3  
 
-## Ipsum
+:fa-phone: 	
+0049 0123456789  
 
-Mauris a ullamcorper lacus. Nullam urna elit, malesuada eget finibus ut, ullamcorper ac tortor. Vestibulum sodales pulvinar nisl, pharetra aliquet est. Quisque volutpat erat ac nisi accumsan tempor.
+:fa-envelope:  
+email@des.Ansprechpartners

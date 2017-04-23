@@ -1,13 +1,13 @@
-# Forschungsnetzwerk "Community Innovation & (digital) Fabrication"
+#Digitalisierungsstrategie in der Hochschullehre: </br> Das BMBF-Forschungsprojekt "FAB101"
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras arcu libero, mollis sed massa vel, ornare viverra ex. Quisque volutpat erat ac nisi accumsan tempor.
+Das Forschungsprojekt Digitale Fabrikationsinfrastrukturen in der interdisziplinären Hochschulbildung - FAB101 wird von März 2017 bis Februar 2020 vom Bundesministerium für Bildung und Forschung gefördert. Am Verbund beteiligt sind die Universität Siegen (Verbundkoordination), die RWTH Aachen, die Universität Bremen und die Folkwang Universität Duisburg/Essen.  
 
-## Community
-![](/img.jpg)
+![Projektdiagramm](images/diagram.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras arcu libero, mollis sed massa vel, ornare viverra ex. Mauris a ullamcorper lacus. Nullam urna elit, malesuada eget finibus ut, ullamcorper ac tortor. Vestibulum sodales pulvinar nisl, pharetra aliquet est. Quisque volutpat erat ac nisi accumsan tempor.
+Aufgabe des Forschungsverbundes Fab101 ist es - ausgehend von den jeweiligen Fab Labs an den beteiligten Hochschulstandorten - in interdisziplinärer Zusammenarbeit Konzepte zu einer studiengangs- und hochschulübergreifenden Lehre in Laboren zur Digitalen Fabrikation (Fab Labs) praxisnah zu beforschen. Das Projekt ist Teil der Digitalisierungsstrategien der jeweiligen Hochschulen.  
+
+Fab Labs sind Fabrikationslabore, in denen vorwiegend mit 3D-Druckern, Lasercuttern, Plottern, CNC-Fräsen und Mikrocontrollern gemeinsam gelernt, gearbeitet und geforscht wird.  
+
+Ergänzend werden im Projekt die strukturellen Rahmenbedingungen in den Blick genommen, wie zum Beispiel die organisations- und sicherheitstechnische Einbettung (neuartiger) Fab Labs an Hochschulen sowie die Erstellung von Empfehlungen für die hardware- und softwaretechnische Ausstattung.
 
 
-## ...
-
-Partners, associations, network,...

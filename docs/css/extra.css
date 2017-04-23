@@ -1,0 +1,14 @@
+.md-grid{
+max-width: 130rem;
+}
+
+.md-sidebar--secondary {
+	margin-left: 130rem;
+}
+
+.profilpic {
+	float: right;
+	height: 145px;
+	width: 145px;
+	margin-left: 15px;
+}

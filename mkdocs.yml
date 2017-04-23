@@ -6,15 +6,19 @@ repo_name: 'GitHub'
 #site_description: 'todo'
 #remote_branch: if we use GH pages
 
-
 pages:
-    #- News: 'news.md'
-    - FAB101: 'index.md'
+    - Home: 'index.md'
+    - Projekt: 'projekt.md'
+        #- Motivation: 'projekt/motivation.md'
+        #- Ziele: 'projekt/ziele.md'
+        #- Methoden und Vorgehen: 'projekt/methoden.md'
+    - Konsortium: 
+        - Universität Siegen: 'konsortium/uni_siegen.md'
+        - RWTH Aachen: 'konsortium/rwth_aachen.md'
+        - Universität Bremen: 'konsortium/uni_bremen.md'
+        - Folkwang Universität Duisburg/Essen: 'konsortium/folkwang_uni.md'
     - Publikationen: 'publikationen.md'
     - Presse: 'presse.md'
-    - Partner: 'partner.md'
-    - Projekte: 'projekte.md'
-    #- Support: 'support.md'
     - Kontakt: 'kontakt.md'
     - Impressum: 'impressum.md'
 
@@ -23,14 +27,14 @@ markdown_extensions:
   - codehilite(linenums=true)
   - toc(permalink=true)
   - footnotes
+  - fontawesome_markdown
 
-#theme: 'material'
 theme_dir: 'theme/material'
 
 extra_css:
+    - css/extra.css
     - css/footer.css
-    
-    
+
 extra:
   logo: 'images/logo.svg'
   palette:
