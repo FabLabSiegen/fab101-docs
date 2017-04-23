@@ -8,64 +8,15 @@ repo_name: 'GitHub'
 
 
 pages:
-  - Community:
-    - Worum geht es?: 'index.md'
-    - Menschen: 'community/menschen.md'
-    - Communities: 'community/communities.md'
-    - Work with us!: 'community/workwithus.md'
-  - Forschung(sprojekte):
-    - Überblick: 'forschung/ueberblick.md'
-    - Methodik: 'forschung/forschungsmethodik.md'
-    - Publikationen: 'forschung/pubs.md'
-    - Projekt FAB101: 'forschung/fab101.md'
-    - Projekt 3dp4edu: 'forschung/3dp4edu.md'
-    - Projekt YALLAH: 'forschung/yallah.md'
-    - Projekt come_IN: 'forschung/comein.md'
-    - Projekt ZEIT.RAUM: 'forschung/zeitraum.md'
-    - Projekt Scoutopia: 'forschung/scoutopia.md'
-    - Projekt Faboule: 'forschung/faboule.md'
-    - Projekt EduFab: 'forschung/edufab.md'
-    - Projekt-Archiv: 'forschung/projektarchiv.md'
-  - Lehre & Materialien:
-    - Überblick: 'lehre/ueberblick.md'
-    - The Media Computing Project: 'lehre/lv_mcp.md'
-    - Seminar Arduino: 'lehre/lv_arduino.md'
-    - Lehrmaterialien allgemein:
-      - Einsteigerprojekt Arduino: 'lehre/lehrmix/arduinobeginner.md'
-    - Commons & Public Good: 'lehre/commons.md'
-    - Community-Arbeit:
-      - Social Media: 'lehre/communityarbeit/socialmedia.md'
-    - Governance & Sustainability:
-      - Hub governance?: 'lehre/hubgovernance.md'
-      - Hub sustainability?: 'lehre/hubsustainability.md'
-    - HCI & CSCW:
-      - HCI und CSCW?: 'lehre/hcicscw/hcicscw.md'
-      - Vorlesung HCI: 'lehre/hcicscw/lv-hci.md'
-      - HCI-Studio: 'lehre/hcicscw/lv-hci-studio.md'
-  - Hubs:
-    - Hubs?: 'hubs/hubs.md'
-    - Fab Lab Siegen:
-      - Über das Lab: 'hubs/fablabsiegen.md'
-      - Organisation & Mitarbeit: 'hubs/fls_orga_mitarbeit.md'
-      - Regeln & Laborordnung: 'hubs/fls_laborordnung.md'
-      - Einweisungen: 'hubs/fls_einweisungen.md'
-      - open lab: 'hubs/fls_openlab.md'
-      - Ausstattung: "hubs/fls_ausstattung.md"
-    - Kreativlabor Siegen: 'hubs/kreativlabor_siegen.md'
-    - Unverpackt Siegen?: 'hubs/unverpackt.md'
-    - Fab Lab Aachen: 'hubs/fablabaachen.md'
-    - Fab Lab Bremen: 'hubs/fablabbremen.md'
-    - Labs Folkwang: 'hubs/werkstaetten_folkwang.md'
-  #- Weitere Labs:
-  #  - Kreativlabor Siegen: 'labs/kreativlabor_siegen.md'
-  #- Ressourcen: 'ressourcen.md'
-  - Lab-Projekte:
-    - Überblick: 'projekte/ueberblick_projekte.md'
-    - AYA (DIY 3D Drucker): 'projekte/aya.md'
-    - Gamebly: 'projekte/gamebly.md'
-  - Support: 'support.md'
-  - Kontakt: 'kontakt.md'
-  - Impressum: 'impressum.md'
+    #- News: 'news.md'
+    - FAB101: 'index.md'
+    - Publikationen: 'publikationen.md'
+    - Presse: 'presse.md'
+    - Partner: 'partner.md'
+    - Projekte: 'projekte.md'
+    #- Support: 'support.md'
+    - Kontakt: 'kontakt.md'
+    - Impressum: 'impressum.md'
 
 markdown_extensions:
   - admonition
@@ -74,8 +25,12 @@ markdown_extensions:
   - footnotes
 
 #theme: 'material'
-theme_dir: 'mkdocs-material/material'
+theme_dir: 'theme/material'
 
+extra_css:
+    - css/footer.css
+    
+    
 extra:
   logo: 'images/logo.svg'
   palette:

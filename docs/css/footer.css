@@ -1,0 +1,10 @@
+.footer-logos{
+	text-align: center;
+	width:100%;
+	padding: 25px;
+}
+
+.footer-logos img{
+	height: 75px;
+	padding: 10px;
+}
