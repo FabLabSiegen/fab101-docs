@@ -2,224 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     
-        
     <url>
      <loc>/</loc>
-     <lastmod>2017-04-04</lastmod>
+     <lastmod>2017-04-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
+    
+
+    
     <url>
-     <loc>/community/menschen/</loc>
-     <lastmod>2017-04-04</lastmod>
+     <loc>/projekt/</loc>
+     <lastmod>2017-04-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
-    <url>
-     <loc>/community/communities/</loc>
-     <lastmod>2017-04-04</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/community/workwithus/</loc>
-     <lastmod>2017-04-04</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
     
 
     
         
     <url>
-     <loc>/forschung/ueberblick/</loc>
-     <lastmod>2017-04-04</lastmod>
+     <loc>/konsortium/uni_siegen/</loc>
+     <lastmod>2017-04-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/forschung/forschungsmethodik/</loc>
-     <lastmod>2017-04-04</lastmod>
+     <loc>/konsortium/rwth_aachen/</loc>
+     <lastmod>2017-04-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/forschung/pubs/</loc>
-     <lastmod>2017-04-04</lastmod>
+     <loc>/konsortium/uni_bremen/</loc>
+     <lastmod>2017-04-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/forschung/fab101/</loc>
-     <lastmod>2017-04-04</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/forschung/3dp4edu/</loc>
-     <lastmod>2017-04-04</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/forschung/yallah/</loc>
-     <lastmod>2017-04-04</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/forschung/comein/</loc>
-     <lastmod>2017-04-04</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/forschung/zeitraum/</loc>
-     <lastmod>2017-04-04</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/forschung/scoutopia/</loc>
-     <lastmod>2017-04-04</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/forschung/faboule/</loc>
-     <lastmod>2017-04-04</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/forschung/edufab/</loc>
-     <lastmod>2017-04-04</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/forschung/projektarchiv/</loc>
-     <lastmod>2017-04-04</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    
-
-    
-        
-    <url>
-     <loc>/lehre/ueberblick/</loc>
-     <lastmod>2017-04-04</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/lehre/lv_mcp/</loc>
-     <lastmod>2017-04-04</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/lehre/lv_arduino/</loc>
-     <lastmod>2017-04-04</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc></loc>
-     <lastmod></lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/lehre/commons/</loc>
-     <lastmod>2017-04-04</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc></loc>
-     <lastmod></lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc></loc>
-     <lastmod></lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc></loc>
-     <lastmod></lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    
-
-    
-        
-    <url>
-     <loc>/hubs/hubs/</loc>
-     <lastmod>2017-04-04</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc></loc>
-     <lastmod></lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/hubs/kreativlabor_siegen/</loc>
-     <lastmod>2017-04-04</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/hubs/unverpackt/</loc>
-     <lastmod>2017-04-04</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/hubs/fablabaachen/</loc>
-     <lastmod>2017-04-04</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/hubs/fablabbremen/</loc>
-     <lastmod>2017-04-04</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/hubs/werkstaetten_folkwang/</loc>
-     <lastmod>2017-04-04</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    
-
-    
-        
-    <url>
-     <loc>/projekte/ueberblick_projekte/</loc>
-     <lastmod>2017-04-04</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/projekte/aya/</loc>
-     <lastmod>2017-04-04</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/projekte/gamebly/</loc>
-     <lastmod>2017-04-04</lastmod>
+     <loc>/konsortium/folkwang_uni/</loc>
+     <lastmod>2017-04-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -227,8 +47,16 @@
 
     
     <url>
-     <loc>/support/</loc>
-     <lastmod>2017-04-04</lastmod>
+     <loc>/publikationen/</loc>
+     <lastmod>2017-04-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/presse/</loc>
+     <lastmod>2017-04-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -236,7 +64,7 @@
     
     <url>
      <loc>/kontakt/</loc>
-     <lastmod>2017-04-04</lastmod>
+     <lastmod>2017-04-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -244,7 +72,7 @@
     
     <url>
      <loc>/impressum/</loc>
-     <lastmod>2017-04-04</lastmod>
+     <lastmod>2017-04-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
