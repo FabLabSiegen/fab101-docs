@@ -5,6 +5,6 @@ Computerunterstützte Gruppenarbeit (engl. Computer-Supported Cooperative Work /
 
 Im besonderen beschäftigt sich die Professur mit Fragen der Gestaltung und Aneignung kooperativer Softwaresysteme in Organisationen, mit Fragen des kommunikationsorientierten Wissensmanagements und der Unterstützung von Communities (Virtueller Gemeinschaften). Mit letzterem Thema sind auch Fragen der gesellschaftlichen Gestaltung durch und mit Informationstechnik verbunden (z.B. im Bereich E-Demokratie oder im Bereich der zivilen Sicherheit).  
 
-Im Forschungsprojekt FAB101 übernimmt die Professur die Verbundkoordination und ....
+Im Forschungsprojekt FAB101 übernimmt die Professur die Verbundkoordination und die Arbeiten am Teilprojekt "Kooperation und Aneignung".
 
 [Zur Webseite der Professur](http://www.cscw.uni-siegen.de/)
