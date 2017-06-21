@@ -2,7 +2,7 @@
 
 Universität Siegen    
 Kohlbettstr. 15    
-57068 Siegen      
+57072 Siegen      
 
 :fa-phone: 0151 / 240 299 89    
 :fa-envelope: oliver.stickel@uni-siegen.de
@@ -20,7 +20,7 @@ Kohlbettstr. 15
 
 ### RWTH Aachen
 **Prof. Dr. Jan Borchers**    
-Lehrstuhl für Medieninformatik und Mensch-Computer-Interaktion
+Lehrstuhl für Medieninformatik und Mensch-Computer-Interaktion    
 Human-Computer Interaction Center
 
 RWTH Aachen    
