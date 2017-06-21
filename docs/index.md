@@ -1,5 +1,4 @@
-## Digitalisierungsstrategie in der Hochschullehre:
-## Das BMBF-Forschungsprojekt “FAB101”
+## Digitalisierungsstrategie in der Hochschullehre:    Das BMBF-Forschungsprojekt “FAB101”
 
 Das Forschungsprojekt **Digitale Fabrikationsinfrastrukturen in der interdisziplinären Hochschulbildung - FAB101** wird von März 2017 bis Februar 2020 vom Bundesministerium für Bildung und Forschung gefördert. Am Verbund beteiligt sind die Universität Siegen (Verbundkoordination), die RWTH Aachen, die Universität Bremen und die Folkwang Universität Duisburg/Essen.        
 
