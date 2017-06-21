@@ -18,7 +18,7 @@ Lehrstuhl für Computerunterstützte Gruppenarbeit und soziale Medien
 Universität Siegen    
 Kohlbettstr. 15    
 57072 Siegen    
- 
+
 :fa-envelope: volkmar.pipek@uni.siegen.de    
 :fa-phone: (0271) 740-4068
 
@@ -38,12 +38,12 @@ Ahornstr. 55
 # Universität Bremen
 **Prof. Dr. Heidi Schelhowe**     
 AG "Digitale Medien in der Bildung"
- 
+
 :fa-home:    
 Universität Bremen    
 Bibliothektstr.1    
 28359 Bremen    
- 
+
 :fa-envelope: schelhow@tzi.de    
 :fa-phone: (0421) 218-64371
 
@@ -51,12 +51,12 @@ Bibliothektstr.1
 **Prof. Stefan Neudecker**     
 Lehrstuhl Design by Technology am
 Fachbereich Gestaltung
- 
+
 :fa-home:
 Folkwang Universität der Künste    
 Campus: Universität Duisburg-Essen    
 Universitätsstr. 12, Gebäude R12    
 45141 Essen
- 
+
 :fa-envelope: stefan.neudecker@folkwang-uni.de    
 :fa-phone: (0201) 183 2202
