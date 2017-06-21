@@ -7,7 +7,6 @@ Kohlbettstr. 15
 :fa-phone: 0151 / 240 299 89    
 :fa-envelope: oliver.stickel@uni-siegen.de
 
-### Universität Siegen
 **Prof. Dr. Volkmar Pipek**    
 Lehrstuhl für Computerunterstützte Gruppenarbeit und soziale Medien
 
@@ -18,7 +17,6 @@ Kohlbettstr. 15
 :fa-envelope: volkmar.pipek@uni.siegen.de    
 :fa-phone: (0271) 740-4068
 
-### RWTH Aachen
 **Prof. Dr. Jan Borchers**    
 Lehrstuhl für Medieninformatik und Mensch-Computer-Interaktion    
 Human-Computer Interaction Center
@@ -30,7 +28,6 @@ Ahornstr. 55
 :fa-envelope: borchers@cs.rwth-aachen.de    
 :fa-phone: (0241) 80-21050
 
-### Universität Bremen
 **Prof. Dr. Heidi Schelhowe**     
 AG "Digitale Medien in der Bildung"
 
@@ -41,7 +38,6 @@ Bibliothektstr.1
 :fa-envelope: schelhow@tzi.de    
 :fa-phone: (0421) 218-64371
 
-### Folkwang Universität der Künste
 **Prof. Stefan Neudecker**     
 Lehrstuhl Design by Technology am
 Fachbereich Gestaltung
