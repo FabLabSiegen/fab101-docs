@@ -62,32 +62,27 @@
         }, 
         {
             "location": "/kontakt/", 
-            "text": "Ansprechpartner\n\n\nOliver Stickel\n (Projekt Koordinator)\n\n\n\nUniversit\u00e4t Siegen  \n\nKohlbettstr. 15  \n\n57068 Siegen      \n\n\n 0151 / 240 299 89  \n\n\n oliver.stickel@uni-siegen.de\n\n\nUniversit\u00e4t Siegen\n\n\nProf. Dr. Volkmar Pipek\n  \n\nLehrstuhl f\u00fcr Computerunterst\u00fctzte Gruppenarbeit und soziale Medien\n\n\n\nUniversit\u00e4t Siegen  \n\nKohlbettstr. 15  \n\n57072 Siegen    \n\n\n volkmar.pipek@uni.siegen.de  \n\n\n (0271) 740-4068\n\n\nRWTH Aachen\n\n\nProf. Dr. Jan Borchers\n  \n\nLehrstuhl f\u00fcr Medieninformatik und Mensch-Computer-Interaktion\nHuman-Computer Interaction Center\n\n\n\nRWTH Aachen  \n\nAhornstr. 55  \n\n52074 Aachen        \n\n\n borchers@cs.rwth-aachen.de  \n\n\n (0241) 80-21050\n\n\nUniversit\u00e4t Bremen\n\n\nProf. Dr. Heidi Schelhowe\n   \n\nAG \"Digitale Medien in der Bildung\"\n\n\n  \n\nUniversit\u00e4t Bremen  \n\nBibliothektstr.1  \n\n28359 Bremen    \n\n\n schelhow@tzi.de  \n\n\n (0421) 218-64371\n\n\nFolkwang Universit\u00e4t der K\u00fcnste\n\n\nProf. Stefan Neudecker\n   \n\nLehrstuhl Design by Technology am\nFachbereich Gestaltung\n\n\n\nFolkwang Universit\u00e4t der K\u00fcnste  \n\nCampus: Universit\u00e4t Duisburg-Essen  \n\nUniversit\u00e4tsstr. 12, Geb\u00e4ude R12  \n\n45141 Essen\n\n\n stefan.neudecker@folkwang-uni.de  \n\n\n (0201) 183 2202", 
+            "text": "Oliver Stickel\n (Projekt Koordinator)\n\n\nUniversit\u00e4t Siegen  \n\nKohlbettstr. 15  \n\n57068 Siegen      \n\n\n 0151 / 240 299 89  \n\n\n oliver.stickel@uni-siegen.de\n\n\nUniversit\u00e4t Siegen\n\n\nProf. Dr. Volkmar Pipek\n  \n\nLehrstuhl f\u00fcr Computerunterst\u00fctzte Gruppenarbeit und soziale Medien\n\n\nUniversit\u00e4t Siegen  \n\nKohlbettstr. 15  \n\n57072 Siegen    \n\n\n volkmar.pipek@uni.siegen.de  \n\n\n (0271) 740-4068\n\n\nRWTH Aachen\n\n\nProf. Dr. Jan Borchers\n  \n\nLehrstuhl f\u00fcr Medieninformatik und Mensch-Computer-Interaktion\nHuman-Computer Interaction Center\n\n\nRWTH Aachen  \n\nAhornstr. 55  \n\n52074 Aachen        \n\n\n borchers@cs.rwth-aachen.de  \n\n\n (0241) 80-21050\n\n\nUniversit\u00e4t Bremen\n\n\nProf. Dr. Heidi Schelhowe\n   \n\nAG \"Digitale Medien in der Bildung\"\n\n\nUniversit\u00e4t Bremen  \n\nBibliothektstr.1  \n\n28359 Bremen    \n\n\n schelhow@tzi.de  \n\n\n (0421) 218-64371\n\n\nFolkwang Universit\u00e4t der K\u00fcnste\n\n\nProf. Stefan Neudecker\n   \n\nLehrstuhl Design by Technology am\nFachbereich Gestaltung\n\n\nFolkwang Universit\u00e4t der K\u00fcnste  \n\nCampus: Universit\u00e4t Duisburg-Essen  \n\nUniversit\u00e4tsstr. 12, Geb\u00e4ude R12  \n\n45141 Essen\n\n\n stefan.neudecker@folkwang-uni.de  \n\n\n (0201) 183 2202", 
             "title": "Kontakt"
         }, 
         {
-            "location": "/kontakt/#ansprechpartner", 
-            "text": "Oliver Stickel  (Projekt Koordinator)  \nUniversit\u00e4t Siegen   \nKohlbettstr. 15   \n57068 Siegen         0151 / 240 299 89     oliver.stickel@uni-siegen.de", 
-            "title": "Ansprechpartner"
-        }, 
-        {
             "location": "/kontakt/#universitat-siegen", 
-            "text": "Prof. Dr. Volkmar Pipek    \nLehrstuhl f\u00fcr Computerunterst\u00fctzte Gruppenarbeit und soziale Medien  \nUniversit\u00e4t Siegen   \nKohlbettstr. 15   \n57072 Siegen       volkmar.pipek@uni.siegen.de     (0271) 740-4068", 
+            "text": "Prof. Dr. Volkmar Pipek    \nLehrstuhl f\u00fcr Computerunterst\u00fctzte Gruppenarbeit und soziale Medien  Universit\u00e4t Siegen   \nKohlbettstr. 15   \n57072 Siegen       volkmar.pipek@uni.siegen.de     (0271) 740-4068", 
             "title": "Universit\u00e4t Siegen"
         }, 
         {
             "location": "/kontakt/#rwth-aachen", 
-            "text": "Prof. Dr. Jan Borchers    \nLehrstuhl f\u00fcr Medieninformatik und Mensch-Computer-Interaktion\nHuman-Computer Interaction Center  \nRWTH Aachen   \nAhornstr. 55   \n52074 Aachen           borchers@cs.rwth-aachen.de     (0241) 80-21050", 
+            "text": "Prof. Dr. Jan Borchers    \nLehrstuhl f\u00fcr Medieninformatik und Mensch-Computer-Interaktion\nHuman-Computer Interaction Center  RWTH Aachen   \nAhornstr. 55   \n52074 Aachen           borchers@cs.rwth-aachen.de     (0241) 80-21050", 
             "title": "RWTH Aachen"
         }, 
         {
             "location": "/kontakt/#universitat-bremen", 
-            "text": "Prof. Dr. Heidi Schelhowe     \nAG \"Digitale Medien in der Bildung\"     \nUniversit\u00e4t Bremen   \nBibliothektstr.1   \n28359 Bremen       schelhow@tzi.de     (0421) 218-64371", 
+            "text": "Prof. Dr. Heidi Schelhowe     \nAG \"Digitale Medien in der Bildung\"  Universit\u00e4t Bremen   \nBibliothektstr.1   \n28359 Bremen       schelhow@tzi.de     (0421) 218-64371", 
             "title": "Universit\u00e4t Bremen"
         }, 
         {
             "location": "/kontakt/#folkwang-universitat-der-kunste", 
-            "text": "Prof. Stefan Neudecker     \nLehrstuhl Design by Technology am\nFachbereich Gestaltung  \nFolkwang Universit\u00e4t der K\u00fcnste   \nCampus: Universit\u00e4t Duisburg-Essen   \nUniversit\u00e4tsstr. 12, Geb\u00e4ude R12   \n45141 Essen   stefan.neudecker@folkwang-uni.de     (0201) 183 2202", 
+            "text": "Prof. Stefan Neudecker     \nLehrstuhl Design by Technology am\nFachbereich Gestaltung  Folkwang Universit\u00e4t der K\u00fcnste   \nCampus: Universit\u00e4t Duisburg-Essen   \nUniversit\u00e4tsstr. 12, Geb\u00e4ude R12   \n45141 Essen   stefan.neudecker@folkwang-uni.de     (0201) 183 2202", 
             "title": "Folkwang Universit\u00e4t der K\u00fcnste"
         }, 
         {
