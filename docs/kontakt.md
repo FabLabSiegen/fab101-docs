@@ -38,12 +38,12 @@ Ahornstr. 55
 **Prof. Dr. Heidi Schelhowe**     
 AG "Digitale Medien in der Bildung"
  
-:fa-home:
+:fa-home:    
 Universität Bremen    
 Bibliothektstr.1    
 28359 Bremen    
  
-:fa-envelope: schelhow@tzi.de
+:fa-envelope: schelhow@tzi.de    
 :fa-phone: (0421) 218-64371
 
 # Folkwang Universität der Künste
