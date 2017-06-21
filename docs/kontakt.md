@@ -1,6 +1,6 @@
 # Ansprechpartner
 
-Oliver Stickel (Projekt Koordinator)
+**Oliver Stickel** (Projekt Koordinator)
 
 :fa-home:  
 Universität Siegen    
@@ -15,7 +15,7 @@ oliver.stickel@uni-siegen.de
 
 
 # Universität Siegen
-Prof. Dr. Volkmar Pipek    
+**Prof. Dr. Volkmar Pipek**    
 Lehrstuhl für Computerunterstützte Gruppenarbeit und soziale Medien
  
 Universität Siegen    
@@ -28,7 +28,7 @@ Fax: (0271) 740-338
 
 
 # RWTH Aachen
-Prof. Dr. Jan Borchers    
+**Prof. Dr. Jan Borchers**    
 Lehrstuhl für Medieninformatik und Mensch-Computer-Interaktion
 Human-Computer Interaction Center
  
@@ -40,7 +40,7 @@ Tel. (0241) 80-21050
 
 
 # Universität Bremen
-Prof. Dr. Heidi Schelhowe     
+**Prof. Dr. Heidi Schelhowe**     
 AG "Digitale Medien in der Bildung"
  
 Universität Bremen    
@@ -52,7 +52,7 @@ Tel. (0421) 218-64371
 
 
 # Folkwang Universität der Künste
-Prof. Stefan Neudecker     
+**Prof. Stefan Neudecker**     
 Lehrstuhl Design by Technology am
 Fachbereich Gestaltung
  
