@@ -2,103 +2,58 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Digitalisierungsstrategie in der Hochschullehre: \n Das BMBF-Forschungsprojekt \"FAB101\"\n\n\nDas Forschungsprojekt Digitale Fabrikationsinfrastrukturen in der interdisziplin\u00e4ren Hochschulbildung - FAB101 wird von M\u00e4rz 2017 bis Februar 2020 vom Bundesministerium f\u00fcr Bildung und Forschung gef\u00f6rdert. Am Verbund beteiligt sind die Universit\u00e4t Siegen (Verbundkoordination), die RWTH Aachen, die Universit\u00e4t Bremen und die Folkwang Universit\u00e4t Duisburg/Essen.  \n\n\n\n\nAufgabe des Forschungsverbundes Fab101 ist es - ausgehend von den jeweiligen Fab Labs an den beteiligten Hochschulstandorten - in interdisziplin\u00e4rer Zusammenarbeit Konzepte zu einer studiengangs- und hochschul\u00fcbergreifenden Lehre in Laboren zur Digitalen Fabrikation (Fab Labs) praxisnah zu beforschen. Das Projekt ist Teil der Digitalisierungsstrategien der jeweiligen Hochschulen.  \n\n\nFab Labs sind Fabrikationslabore, in denen vorwiegend mit 3D-Druckern, Lasercuttern, Plottern, CNC-Fr\u00e4sen und Mikrocontrollern gemeinsam gelernt, gearbeitet und geforscht wird.  \n\n\nErg\u00e4nzend werden im Projekt die strukturellen Rahmenbedingungen in den Blick genommen, wie zum Beispiel die organisations- und sicherheitstechnische Einbettung (neuartiger) Fab Labs an Hochschulen sowie die Erstellung von Empfehlungen f\u00fcr die hardware- und softwaretechnische Ausstattung.", 
+            "text": "INDEX.MD", 
             "title": "Home"
         }, 
         {
-            "location": "/#digitalisierungsstrategie-in-der-hochschullehre-das-bmbf-forschungsprojekt-fab101", 
-            "text": "Das Forschungsprojekt Digitale Fabrikationsinfrastrukturen in der interdisziplin\u00e4ren Hochschulbildung - FAB101 wird von M\u00e4rz 2017 bis Februar 2020 vom Bundesministerium f\u00fcr Bildung und Forschung gef\u00f6rdert. Am Verbund beteiligt sind die Universit\u00e4t Siegen (Verbundkoordination), die RWTH Aachen, die Universit\u00e4t Bremen und die Folkwang Universit\u00e4t Duisburg/Essen.     Aufgabe des Forschungsverbundes Fab101 ist es - ausgehend von den jeweiligen Fab Labs an den beteiligten Hochschulstandorten - in interdisziplin\u00e4rer Zusammenarbeit Konzepte zu einer studiengangs- und hochschul\u00fcbergreifenden Lehre in Laboren zur Digitalen Fabrikation (Fab Labs) praxisnah zu beforschen. Das Projekt ist Teil der Digitalisierungsstrategien der jeweiligen Hochschulen.    Fab Labs sind Fabrikationslabore, in denen vorwiegend mit 3D-Druckern, Lasercuttern, Plottern, CNC-Fr\u00e4sen und Mikrocontrollern gemeinsam gelernt, gearbeitet und geforscht wird.    Erg\u00e4nzend werden im Projekt die strukturellen Rahmenbedingungen in den Blick genommen, wie zum Beispiel die organisations- und sicherheitstechnische Einbettung (neuartiger) Fab Labs an Hochschulen sowie die Erstellung von Empfehlungen f\u00fcr die hardware- und softwaretechnische Ausstattung.", 
-            "title": "Digitalisierungsstrategie in der Hochschullehre:  Das BMBF-Forschungsprojekt \"FAB101\""
+            "location": "/#indexmd", 
+            "text": "", 
+            "title": "INDEX.MD"
         }, 
         {
             "location": "/projekt/", 
-            "text": "FAB101\n\n\nHier folgt eine Beschreibung des Projekts: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.  \n\n\nMotivation\n\n\nHier folgt ein kurzer Text zur Motivation: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.  \n\n\nZiele\n\n\nHier folgt ein kurzer Text zu den Zielen des Projekts: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.\n\n\nMethoden und Vorehen\n\n\nHier werden Methoden und die Vorgehensweise im Projekt dargestellt: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.", 
-            "title": "Projekt"
+            "text": "Digitalisierungsstrategie in der Hochschullehre:\n\n\nDas BMBF-Forschungsprojekt \u201cFAB101\u201d\n\n\nDas Forschungsprojekt \nDigitale Fabrikationsinfrastrukturen in der interdisziplin\u00e4ren Hochschulbildung - FAB101\n wird von M\u00e4rz 2017 bis Februar 2020 vom Bundesministerium f\u00fcr Bildung und Forschung gef\u00f6rdert. Am Verbund beteiligt sind die Universit\u00e4t Siegen (Verbundkoordination), die RWTH Aachen, die Universit\u00e4t Bremen und die Folkwang Universit\u00e4t Duisburg/Essen.        \n\n\n    \n\n\nAufgabe des Forschungsverbundes Fab101 ist es - ausgehend von den jeweiligen Fab Labs an den beteiligten Hochschulstandorten - in interdisziplin\u00e4rer Zusammenarbeit Konzepte zu einer studiengangs- und hochschul\u00fcbergreifenden Lehre in Laboren zur Digitalen Fabrikation (Fab Labs) praxisnah zu beforschen. Das Projekt ist Teil der Digitalisierungsstrategien der jeweiligen Hochschulen.    \n\n\nFab Labs sind Fabrikationslabore, in denen vorwiegend mit 3D-Druckern, Lasercuttern, Plottern, CNC-Fr\u00e4sen und Mikrocontrollern gemeinsam gelernt, gearbeitet und geforscht wird.    \n\n\nErg\u00e4nzend werden im Projekt die strukturellen Rahmenbedingungen in den Blick genommen, wie zum Beispiel die organisations- und sicherheitstechnische Einbettung (neuartiger) Fab Labs an Hochschulen sowie die Erstellung von Empfehlungen f\u00fcr die hardware- und softwaretechnische Ausstattung.", 
+            "title": "Konsortium"
         }, 
         {
-            "location": "/projekt/#fab101", 
-            "text": "Hier folgt eine Beschreibung des Projekts: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.", 
-            "title": "FAB101"
-        }, 
-        {
-            "location": "/projekt/#motivation", 
-            "text": "Hier folgt ein kurzer Text zur Motivation: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.", 
-            "title": "Motivation"
-        }, 
-        {
-            "location": "/projekt/#ziele", 
-            "text": "Hier folgt ein kurzer Text zu den Zielen des Projekts: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.", 
-            "title": "Ziele"
-        }, 
-        {
-            "location": "/projekt/#methoden-und-vorehen", 
-            "text": "Hier werden Methoden und die Vorgehensweise im Projekt dargestellt: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.", 
-            "title": "Methoden und Vorehen"
-        }, 
-        {
-            "location": "/konsortium/uni_siegen/", 
-            "text": "Foto: \nBob Ionescu\n\n\nComputerunterst\u00fctzte Gruppenarbeit und Soziale Medien\n\n\nComputerunterst\u00fctzte Gruppenarbeit (engl. Computer-Supported Cooperative Work / CSCW) ist eine interdisziplin\u00e4re Forschungsrichtung, die neben der (Wirtschafts-)Informatik sowohl methodisch als auch inhaltlich auch von den Disziplinen Betriebswirtschaftslehre, Organisationswissenschaften, Arbeitswissenschaften, Psychologie, Soziologie und Anthropologie/Ethnographie getragen wird. Aus informatischer Perspektive ist CSCW ein Teilbereich der Wirtschaftsinformatik (engl. Information Systems) wie auch der HCI (Human-Computer Interaction, dtsch. Mensch-Maschine-Interaktion).  \n\n\nIm besonderen besch\u00e4ftigt sich die Professur mit Fragen der Gestaltung und Aneignung kooperativer Softwaresysteme in Organisationen, mit Fragen des kommunikationsorientierten Wissensmanagements und der Unterst\u00fctzung von Communities (Virtueller Gemeinschaften). Mit letzterem Thema sind auch Fragen der gesellschaftlichen Gestaltung durch und mit Informationstechnik verbunden (z.B. im Bereich E-Demokratie oder im Bereich der zivilen Sicherheit).  \n\n\nIm Forschungsprojekt FAB101 \u00fcbernimmt die Professur die Verbundkoordination und ....\n\n\nZur Webseite der Professur\n\n\nMitarbeiter\n\n\nVolkmar Pipek \n\n\nUniversity of Siegen | \nWebsite\n | \nMail\n\n\nVolkmar Pipek is Professor for Computer Supported Cooperative Work and Social Media with the Institute for Information Systems at the University of Siegen, German and chair to the board of trustees of the International Institute for Socio-Informatics (IISI). His research interest into interdisciplinary, more application-oriented computer science lead him through different research groups in HCI and CSCW in Europe such as in Bonn where he worked on awareness issues and organizational aspects of groupware applications and in Oulu. 1999 he worked in several smaller projects on Knowledge Management and Distance Learning. From April 2000 to March 2003 he was coordinating the project OlViO, a project on the use of IT in Organisational Learning. From 2003-2005 he was a guest researcher with the Laboratory of HCI and Group Technology at the University of Oulu, Finland, where he also received his a PhD in 2005.\n\n\nOliver Stickel \n\n\nUniversity of Siegen | \nWebsite\n | \nMail\n\n\nOliver is founder and coordinator of the university\u2019s \nFab Lab\n, researcher, general project instigator and lecturer in HCI- and Maker-methods. He has published on digital fabrication, field studies involving 3D printing in Palestine, regional innovation communities and agile methods.\n\n\nAnd many more", 
-            "title": "Universit\u00e4t Siegen"
-        }, 
-        {
-            "location": "/konsortium/uni_siegen/#computerunterstutzte-gruppenarbeit-und-soziale-medien", 
-            "text": "Computerunterst\u00fctzte Gruppenarbeit (engl. Computer-Supported Cooperative Work / CSCW) ist eine interdisziplin\u00e4re Forschungsrichtung, die neben der (Wirtschafts-)Informatik sowohl methodisch als auch inhaltlich auch von den Disziplinen Betriebswirtschaftslehre, Organisationswissenschaften, Arbeitswissenschaften, Psychologie, Soziologie und Anthropologie/Ethnographie getragen wird. Aus informatischer Perspektive ist CSCW ein Teilbereich der Wirtschaftsinformatik (engl. Information Systems) wie auch der HCI (Human-Computer Interaction, dtsch. Mensch-Maschine-Interaktion).    Im besonderen besch\u00e4ftigt sich die Professur mit Fragen der Gestaltung und Aneignung kooperativer Softwaresysteme in Organisationen, mit Fragen des kommunikationsorientierten Wissensmanagements und der Unterst\u00fctzung von Communities (Virtueller Gemeinschaften). Mit letzterem Thema sind auch Fragen der gesellschaftlichen Gestaltung durch und mit Informationstechnik verbunden (z.B. im Bereich E-Demokratie oder im Bereich der zivilen Sicherheit).    Im Forschungsprojekt FAB101 \u00fcbernimmt die Professur die Verbundkoordination und ....  Zur Webseite der Professur", 
-            "title": "Computerunterst\u00fctzte Gruppenarbeit und Soziale Medien"
-        }, 
-        {
-            "location": "/konsortium/uni_siegen/#mitarbeiter", 
+            "location": "/projekt/#digitalisierungsstrategie-in-der-hochschullehre", 
             "text": "", 
-            "title": "Mitarbeiter"
+            "title": "Digitalisierungsstrategie in der Hochschullehre:"
         }, 
         {
-            "location": "/konsortium/uni_siegen/#volkmar-pipek", 
-            "text": "University of Siegen |  Website  |  Mail  Volkmar Pipek is Professor for Computer Supported Cooperative Work and Social Media with the Institute for Information Systems at the University of Siegen, German and chair to the board of trustees of the International Institute for Socio-Informatics (IISI). His research interest into interdisciplinary, more application-oriented computer science lead him through different research groups in HCI and CSCW in Europe such as in Bonn where he worked on awareness issues and organizational aspects of groupware applications and in Oulu. 1999 he worked in several smaller projects on Knowledge Management and Distance Learning. From April 2000 to March 2003 he was coordinating the project OlViO, a project on the use of IT in Organisational Learning. From 2003-2005 he was a guest researcher with the Laboratory of HCI and Group Technology at the University of Oulu, Finland, where he also received his a PhD in 2005.", 
-            "title": "Volkmar Pipek "
-        }, 
-        {
-            "location": "/konsortium/uni_siegen/#oliver-stickel", 
-            "text": "University of Siegen |  Website  |  Mail  Oliver is founder and coordinator of the university\u2019s  Fab Lab , researcher, general project instigator and lecturer in HCI- and Maker-methods. He has published on digital fabrication, field studies involving 3D printing in Palestine, regional innovation communities and agile methods.", 
-            "title": "Oliver Stickel "
-        }, 
-        {
-            "location": "/konsortium/uni_siegen/#and-many-more", 
-            "text": "", 
-            "title": "And many more"
-        }, 
-        {
-            "location": "/konsortium/rwth_aachen/", 
-            "text": "", 
-            "title": "RWTH Aachen"
-        }, 
-        {
-            "location": "/konsortium/uni_bremen/", 
-            "text": "", 
-            "title": "Universit\u00e4t Bremen"
-        }, 
-        {
-            "location": "/konsortium/folkwang_uni/", 
-            "text": "", 
-            "title": "Folkwang Universit\u00e4t Duisburg/Essen"
-        }, 
-        {
-            "location": "/publikationen/", 
-            "text": "", 
-            "title": "Publikationen"
-        }, 
-        {
-            "location": "/presse/", 
-            "text": "", 
-            "title": "Presse"
+            "location": "/projekt/#das-bmbf-forschungsprojekt-fab101", 
+            "text": "Das Forschungsprojekt  Digitale Fabrikationsinfrastrukturen in der interdisziplin\u00e4ren Hochschulbildung - FAB101  wird von M\u00e4rz 2017 bis Februar 2020 vom Bundesministerium f\u00fcr Bildung und Forschung gef\u00f6rdert. Am Verbund beteiligt sind die Universit\u00e4t Siegen (Verbundkoordination), die RWTH Aachen, die Universit\u00e4t Bremen und die Folkwang Universit\u00e4t Duisburg/Essen.                Aufgabe des Forschungsverbundes Fab101 ist es - ausgehend von den jeweiligen Fab Labs an den beteiligten Hochschulstandorten - in interdisziplin\u00e4rer Zusammenarbeit Konzepte zu einer studiengangs- und hochschul\u00fcbergreifenden Lehre in Laboren zur Digitalen Fabrikation (Fab Labs) praxisnah zu beforschen. Das Projekt ist Teil der Digitalisierungsstrategien der jeweiligen Hochschulen.      Fab Labs sind Fabrikationslabore, in denen vorwiegend mit 3D-Druckern, Lasercuttern, Plottern, CNC-Fr\u00e4sen und Mikrocontrollern gemeinsam gelernt, gearbeitet und geforscht wird.      Erg\u00e4nzend werden im Projekt die strukturellen Rahmenbedingungen in den Blick genommen, wie zum Beispiel die organisations- und sicherheitstechnische Einbettung (neuartiger) Fab Labs an Hochschulen sowie die Erstellung von Empfehlungen f\u00fcr die hardware- und softwaretechnische Ausstattung.", 
+            "title": "Das BMBF-Forschungsprojekt \u201cFAB101\u201d"
         }, 
         {
             "location": "/kontakt/", 
-            "text": "Ansprechpartner\n\n\n\n\nVorname Nachname  \n\n\n\nAdresszeile 1\n\nAdresszeile 2\n\nAdresszeile 3  \n\n\n\n0049 0123456789  \n\n\n\nemail@des.Ansprechpartners", 
+            "text": "Ansprechpartner\n\n\nOliver Stickel\n (Projekt Koordinator)\n\n\n\nUniversit\u00e4t Siegen  \n\nKohlbettstr. 15  \n\n57068 Siegen      \n\n\n 0151 / 240 299 89  \n\n\n oliver.stickel@uni-siegen.de\n\n\nUniversit\u00e4t Siegen\n\n\nProf. Dr. Volkmar Pipek\n  \n\nLehrstuhl f\u00fcr Computerunterst\u00fctzte Gruppenarbeit und soziale Medien\n\n\n\nUniversit\u00e4t Siegen  \n\nKohlbettstr. 15  \n\n57072 Siegen    \n\n\n volkmar.pipek@uni.siegen.de  \n\n\n (0271) 740-4068\n\n\nRWTH Aachen\n\n\nProf. Dr. Jan Borchers\n  \n\nLehrstuhl f\u00fcr Medieninformatik und Mensch-Computer-Interaktion\nHuman-Computer Interaction Center\n\n\n\nRWTH Aachen  \n\nAhornstr. 55  \n\n52074 Aachen        \n\n\n borchers@cs.rwth-aachen.de  \n\n\n (0241) 80-21050\n\n\nUniversit\u00e4t Bremen\n\n\nProf. Dr. Heidi Schelhowe\n   \n\nAG \"Digitale Medien in der Bildung\"\n\n\n  \n\nUniversit\u00e4t Bremen  \n\nBibliothektstr.1  \n\n28359 Bremen    \n\n\n schelhow@tzi.de  \n\n\n (0421) 218-64371\n\n\nFolkwang Universit\u00e4t der K\u00fcnste\n\n\nProf. Stefan Neudecker\n   \n\nLehrstuhl Design by Technology am\nFachbereich Gestaltung\n\n\n\nFolkwang Universit\u00e4t der K\u00fcnste  \n\nCampus: Universit\u00e4t Duisburg-Essen  \n\nUniversit\u00e4tsstr. 12, Geb\u00e4ude R12  \n\n45141 Essen\n\n\n stefan.neudecker@folkwang-uni.de  \n\n\n (0201) 183 2202", 
             "title": "Kontakt"
         }, 
         {
             "location": "/kontakt/#ansprechpartner", 
-            "text": "Vorname Nachname    \nAdresszeile 1 \nAdresszeile 2 \nAdresszeile 3    \n0049 0123456789    \nemail@des.Ansprechpartners", 
+            "text": "Oliver Stickel  (Projekt Koordinator)  \nUniversit\u00e4t Siegen   \nKohlbettstr. 15   \n57068 Siegen         0151 / 240 299 89     oliver.stickel@uni-siegen.de", 
             "title": "Ansprechpartner"
+        }, 
+        {
+            "location": "/kontakt/#universitat-siegen", 
+            "text": "Prof. Dr. Volkmar Pipek    \nLehrstuhl f\u00fcr Computerunterst\u00fctzte Gruppenarbeit und soziale Medien  \nUniversit\u00e4t Siegen   \nKohlbettstr. 15   \n57072 Siegen       volkmar.pipek@uni.siegen.de     (0271) 740-4068", 
+            "title": "Universit\u00e4t Siegen"
+        }, 
+        {
+            "location": "/kontakt/#rwth-aachen", 
+            "text": "Prof. Dr. Jan Borchers    \nLehrstuhl f\u00fcr Medieninformatik und Mensch-Computer-Interaktion\nHuman-Computer Interaction Center  \nRWTH Aachen   \nAhornstr. 55   \n52074 Aachen           borchers@cs.rwth-aachen.de     (0241) 80-21050", 
+            "title": "RWTH Aachen"
+        }, 
+        {
+            "location": "/kontakt/#universitat-bremen", 
+            "text": "Prof. Dr. Heidi Schelhowe     \nAG \"Digitale Medien in der Bildung\"     \nUniversit\u00e4t Bremen   \nBibliothektstr.1   \n28359 Bremen       schelhow@tzi.de     (0421) 218-64371", 
+            "title": "Universit\u00e4t Bremen"
+        }, 
+        {
+            "location": "/kontakt/#folkwang-universitat-der-kunste", 
+            "text": "Prof. Stefan Neudecker     \nLehrstuhl Design by Technology am\nFachbereich Gestaltung  \nFolkwang Universit\u00e4t der K\u00fcnste   \nCampus: Universit\u00e4t Duisburg-Essen   \nUniversit\u00e4tsstr. 12, Geb\u00e4ude R12   \n45141 Essen   stefan.neudecker@folkwang-uni.de     (0201) 183 2202", 
+            "title": "Folkwang Universit\u00e4t der K\u00fcnste"
         }, 
         {
             "location": "/impressum/", 
