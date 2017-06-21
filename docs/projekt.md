@@ -1,13 +1,8 @@
-# FAB101  
-Hier folgt eine Beschreibung des Projekts: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.  
+## Digitalisierungsstrategie in der Hochschullehre: 
+## Das BMBF-Forschungsprojekt “FAB101”
+ 
+Das Forschungsprojekt **Digitale Fabrikationsinfrastrukturen in der interdisziplinären Hochschulbildung - FAB101** wird von März 2017 bis Februar 2020 vom Bundesministerium für Bildung und Forschung gefördert. Am Verbund beteiligt sind die Universität Siegen (Verbundkoordination), die RWTH Aachen, die Universität Bremen und die Folkwang Universität Duisburg/Essen.
+Aufgabe des Forschungsverbundes Fab101 ist es - ausgehend von den jeweiligen Fab Labs an den beteiligten Hochschulstandorten - in interdisziplinärer Zusammenarbeit Konzepte zu einer studiengangs- und hochschulübergreifenden Lehre in Laboren zur Digitalen Fabrikation (Fab Labs) praxisnah zu beforschen. Das Projekt ist Teil der Digitalisierungsstrategien der jeweiligen Hochschulen.
+Fab Labs sind Fabrikationslabore, in denen vorwiegend mit 3D-Druckern, Lasercuttern, Plottern, CNC-Fräsen und Mikrocontrollern gemeinsam gelernt, gearbeitet und geforscht wird.
+Ergänzend werden im Projekt die strukturellen Rahmenbedingungen in den Blick genommen, wie zum Beispiel die organisations- und sicherheitstechnische Einbettung (neuartiger) Fab Labs an Hochschulen sowie die Erstellung von Empfehlungen für die hardware- und softwaretechnische Ausstattung.
 
-## Motivation
-Hier folgt ein kurzer Text zur Motivation: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.  
-
-
-## Ziele
-Hier folgt ein kurzer Text zu den Zielen des Projekts: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-
-
-## Methoden und Vorehen
-Hier werden Methoden und die Vorgehensweise im Projekt dargestellt: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
