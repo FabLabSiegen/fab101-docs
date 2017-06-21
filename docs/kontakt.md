@@ -3,9 +3,9 @@
 Oliver Stickel (Projekt Koordinator)
 
 :fa-home:  
-Universität Siegen
-Kohlbettstr. 15
-57068 Siegen  
+Universität Siegen    
+Kohlbettstr. 15    
+57068 Siegen      
 
 :fa-phone: 	
 +49 (0) 151 / 240 299 89
