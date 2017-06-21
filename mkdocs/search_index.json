@@ -1,19 +1,9 @@
 {
     "docs": [
         {
-            "location": "/", 
-            "text": "INDEX.MD", 
-            "title": "Home"
-        }, 
-        {
-            "location": "/#indexmd", 
-            "text": "", 
-            "title": "INDEX.MD"
-        }, 
-        {
             "location": "/projekt/", 
             "text": "Digitalisierungsstrategie in der Hochschullehre:\n\n\nDas BMBF-Forschungsprojekt \u201cFAB101\u201d\n\n\nDas Forschungsprojekt \nDigitale Fabrikationsinfrastrukturen in der interdisziplin\u00e4ren Hochschulbildung - FAB101\n wird von M\u00e4rz 2017 bis Februar 2020 vom Bundesministerium f\u00fcr Bildung und Forschung gef\u00f6rdert. Am Verbund beteiligt sind die Universit\u00e4t Siegen (Verbundkoordination), die RWTH Aachen, die Universit\u00e4t Bremen und die Folkwang Universit\u00e4t Duisburg/Essen.        \n\n\n    \n\n\nAufgabe des Forschungsverbundes Fab101 ist es - ausgehend von den jeweiligen Fab Labs an den beteiligten Hochschulstandorten - in interdisziplin\u00e4rer Zusammenarbeit Konzepte zu einer studiengangs- und hochschul\u00fcbergreifenden Lehre in Laboren zur Digitalen Fabrikation (Fab Labs) praxisnah zu beforschen. Das Projekt ist Teil der Digitalisierungsstrategien der jeweiligen Hochschulen.    \n\n\nFab Labs sind Fabrikationslabore, in denen vorwiegend mit 3D-Druckern, Lasercuttern, Plottern, CNC-Fr\u00e4sen und Mikrocontrollern gemeinsam gelernt, gearbeitet und geforscht wird.    \n\n\nErg\u00e4nzend werden im Projekt die strukturellen Rahmenbedingungen in den Blick genommen, wie zum Beispiel die organisations- und sicherheitstechnische Einbettung (neuartiger) Fab Labs an Hochschulen sowie die Erstellung von Empfehlungen f\u00fcr die hardware- und softwaretechnische Ausstattung.", 
-            "title": "Konsortium"
+            "title": "Home"
         }, 
         {
             "location": "/projekt/#digitalisierungsstrategie-in-der-hochschullehre", 
@@ -24,6 +14,51 @@
             "location": "/projekt/#das-bmbf-forschungsprojekt-fab101", 
             "text": "Das Forschungsprojekt  Digitale Fabrikationsinfrastrukturen in der interdisziplin\u00e4ren Hochschulbildung - FAB101  wird von M\u00e4rz 2017 bis Februar 2020 vom Bundesministerium f\u00fcr Bildung und Forschung gef\u00f6rdert. Am Verbund beteiligt sind die Universit\u00e4t Siegen (Verbundkoordination), die RWTH Aachen, die Universit\u00e4t Bremen und die Folkwang Universit\u00e4t Duisburg/Essen.                Aufgabe des Forschungsverbundes Fab101 ist es - ausgehend von den jeweiligen Fab Labs an den beteiligten Hochschulstandorten - in interdisziplin\u00e4rer Zusammenarbeit Konzepte zu einer studiengangs- und hochschul\u00fcbergreifenden Lehre in Laboren zur Digitalen Fabrikation (Fab Labs) praxisnah zu beforschen. Das Projekt ist Teil der Digitalisierungsstrategien der jeweiligen Hochschulen.      Fab Labs sind Fabrikationslabore, in denen vorwiegend mit 3D-Druckern, Lasercuttern, Plottern, CNC-Fr\u00e4sen und Mikrocontrollern gemeinsam gelernt, gearbeitet und geforscht wird.      Erg\u00e4nzend werden im Projekt die strukturellen Rahmenbedingungen in den Blick genommen, wie zum Beispiel die organisations- und sicherheitstechnische Einbettung (neuartiger) Fab Labs an Hochschulen sowie die Erstellung von Empfehlungen f\u00fcr die hardware- und softwaretechnische Ausstattung.", 
             "title": "Das BMBF-Forschungsprojekt \u201cFAB101\u201d"
+        }, 
+        {
+            "location": "/konsortium/", 
+            "text": "Foto: \nOliver Stickel\n\n\nComputerunterst\u00fctzte Gruppenarbeit und Soziale Medien\n\n\nTeilprojekt FAB101: Kooperation und Aneignung\n\n\nComputerunterst\u00fctzte Gruppenarbeit (engl. Computer-Supported Cooperative Work / CSCW) ist eine interdisziplin\u00e4re Forschungsrichtung, die neben der (Wirtschafts-)Informatik sowohl methodisch als auch inhaltlich auch von den Disziplinen Betriebswirtschaftslehre, Organisationswissenschaften, Arbeitswissenschaften, Psychologie, Soziologie und Anthropologie/Ethnographie getragen wird. Aus informatischer Perspektive ist CSCW ein Teilbereich der Wirtschaftsinformatik (engl. Information Systems) wie auch der HCI (Human-Computer Interaction, dtsch. Mensch-Maschine-Interaktion).  \n\n\nIm besonderen besch\u00e4ftigt sich die Professur mit Fragen der Gestaltung und Aneignung kooperativer Softwaresysteme in Organisationen, mit Fragen des kommunikationsorientierten Wissensmanagements und der Unterst\u00fctzung von Communities (Virtueller Gemeinschaften). Mit letzterem Thema sind auch Fragen der gesellschaftlichen Gestaltung durch und mit Informationstechnik verbunden (z.B. im Bereich E-Demokratie oder im Bereich der zivilen Sicherheit).  \n\n\nIm Forschungsprojekt FAB101 \u00fcbernimmt die Professur die Verbundkoordination und ....\n\n\nZur Webseite der Professur\n\n\nMedieninformatik und Mensch-Computer-Interaktion\n\n\nTeilprojekt FAB101: Werkzeuge digitaler Fabrikation f\u00fcr Maker\n\n\nDigitale Medien in der Bildung\n\n\nTeilprojekt FAB101: FabLabs als (akademischer) Bildungs- und Handlungsraum\n\n\nDesign by Technology\n\n\nTeilprojekt FAB101: Werkzeuge digitaler Fabrikation f\u00fcr Maker", 
+            "title": "Konsortium"
+        }, 
+        {
+            "location": "/konsortium/#computerunterstutzte-gruppenarbeit-und-soziale-medien", 
+            "text": "", 
+            "title": "Computerunterst\u00fctzte Gruppenarbeit und Soziale Medien"
+        }, 
+        {
+            "location": "/konsortium/#teilprojekt-fab101-kooperation-und-aneignung", 
+            "text": "Computerunterst\u00fctzte Gruppenarbeit (engl. Computer-Supported Cooperative Work / CSCW) ist eine interdisziplin\u00e4re Forschungsrichtung, die neben der (Wirtschafts-)Informatik sowohl methodisch als auch inhaltlich auch von den Disziplinen Betriebswirtschaftslehre, Organisationswissenschaften, Arbeitswissenschaften, Psychologie, Soziologie und Anthropologie/Ethnographie getragen wird. Aus informatischer Perspektive ist CSCW ein Teilbereich der Wirtschaftsinformatik (engl. Information Systems) wie auch der HCI (Human-Computer Interaction, dtsch. Mensch-Maschine-Interaktion).    Im besonderen besch\u00e4ftigt sich die Professur mit Fragen der Gestaltung und Aneignung kooperativer Softwaresysteme in Organisationen, mit Fragen des kommunikationsorientierten Wissensmanagements und der Unterst\u00fctzung von Communities (Virtueller Gemeinschaften). Mit letzterem Thema sind auch Fragen der gesellschaftlichen Gestaltung durch und mit Informationstechnik verbunden (z.B. im Bereich E-Demokratie oder im Bereich der zivilen Sicherheit).    Im Forschungsprojekt FAB101 \u00fcbernimmt die Professur die Verbundkoordination und ....  Zur Webseite der Professur", 
+            "title": "Teilprojekt FAB101: Kooperation und Aneignung"
+        }, 
+        {
+            "location": "/konsortium/#medieninformatik-und-mensch-computer-interaktion", 
+            "text": "", 
+            "title": "Medieninformatik und Mensch-Computer-Interaktion"
+        }, 
+        {
+            "location": "/konsortium/#teilprojekt-fab101-werkzeuge-digitaler-fabrikation-fur-maker", 
+            "text": "", 
+            "title": "Teilprojekt FAB101: Werkzeuge digitaler Fabrikation f\u00fcr Maker"
+        }, 
+        {
+            "location": "/konsortium/#digitale-medien-in-der-bildung", 
+            "text": "", 
+            "title": "Digitale Medien in der Bildung"
+        }, 
+        {
+            "location": "/konsortium/#teilprojekt-fab101-fablabs-als-akademischer-bildungs-und-handlungsraum", 
+            "text": "", 
+            "title": "Teilprojekt FAB101: FabLabs als (akademischer) Bildungs- und Handlungsraum"
+        }, 
+        {
+            "location": "/konsortium/#design-by-technology", 
+            "text": "", 
+            "title": "Design by Technology"
+        }, 
+        {
+            "location": "/konsortium/#teilprojekt-fab101-werkzeuge-digitaler-fabrikation-fur-maker_1", 
+            "text": "", 
+            "title": "Teilprojekt FAB101: Werkzeuge digitaler Fabrikation f\u00fcr Maker"
         }, 
         {
             "location": "/kontakt/", 
