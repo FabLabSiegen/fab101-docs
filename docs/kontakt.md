@@ -7,8 +7,7 @@ Universität Siegen
 Kohlbettstr. 15    
 57068 Siegen      
 
-:fa-phone: 0151 / 240 299 89
-
+:fa-phone: 0151 / 240 299 89    
 :fa-envelope: oliver.stickel@uni-siegen.de
 
 # Universität Siegen
@@ -20,7 +19,7 @@ Universität Siegen
 Kohlbettstr. 15    
 57072 Siegen    
  
-:fa-envelope: volkmar.pipek@uni.siegen.de
+:fa-envelope: volkmar.pipek@uni.siegen.de    
 :fa-phone: (0271) 740-4068
 
 # RWTH Aachen
@@ -32,7 +31,7 @@ Human-Computer Interaction Center
 RWTH Aachen    
 Ahornstr. 55    
 52074 Aachen    
-:fa-envelope: borchers@cs.rwth-aachen.de
+:fa-envelope: borchers@cs.rwth-aachen.de    
 :fa-phone: (0241) 80-21050
 
 # Universität Bremen
@@ -58,5 +57,5 @@ Campus: Universität Duisburg-Essen
 Universitätsstr. 12, Gebäude R12    
 45141 Essen
  
-:fa-envelope: stefan.neudecker@folkwang-uni.de
+:fa-envelope: stefan.neudecker@folkwang-uni.de    
 :fa-phone: (0201) 183 2202
