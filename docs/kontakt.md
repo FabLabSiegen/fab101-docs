@@ -30,7 +30,8 @@ Human-Computer Interaction Center
 :fa-home:  
 RWTH Aachen    
 Ahornstr. 55    
-52074 Aachen    
+52074 Aachen        
+
 :fa-envelope: borchers@cs.rwth-aachen.de    
 :fa-phone: (0241) 80-21050
 
