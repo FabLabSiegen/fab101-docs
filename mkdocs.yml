@@ -7,12 +7,12 @@ repo_name: 'GitHub'
 #remote_branch: if we use GH pages
 
 pages:
-    - Home: 'index.md'
+    - Home: 'projekt.md'
     # - Projekt: 'projekt.md'
         #- Motivation: 'projekt/motivation.md'
         #- Ziele: 'projekt/ziele.md'
         #- Methoden und Vorgehen: 'projekt/methoden.md'
-    - Konsortium: 'projekt.md'
+    - Konsortium: 'konsortium.md'
     #    - Universität Siegen: 'konsortium/uni_siegen.md'
     #    - RWTH Aachen: 'konsortium/rwth_aachen.md'
     #    - Universität Bremen: 'konsortium/uni_bremen.md'
