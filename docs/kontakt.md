@@ -1,51 +1,51 @@
-**Oliver Stickel** (Projekt Koordinator)
+**Oliver Stickel** (Projektleiter)
 
-Universität Siegen    
-Kohlbettstr. 15    
-57072 Siegen      
+Universität Siegen
+Kohlbettstr. 15
+57072 Siegen
 
 :fa-phone: 0151 / 240 299 89    
 :fa-envelope: oliver.stickel@uni-siegen.de
 
-**Prof. Dr. Volkmar Pipek**    
+**Prof. Dr. Volkmar Pipek**
 Lehrstuhl für Computerunterstützte Gruppenarbeit und soziale Medien
 
-Universität Siegen    
-Kohlbettstr. 15    
-57072 Siegen    
+Universität Siegen
+Kohlbettstr. 15
+57072 Siegen
 
-:fa-envelope: volkmar.pipek@uni.siegen.de    
+:fa-envelope: volkmar.pipek@uni.siegen.de
 :fa-phone: (0271) 740-4068
 
-**Prof. Dr. Jan Borchers**    
-Lehrstuhl für Medieninformatik und Mensch-Computer-Interaktion    
+**Prof. Dr. Jan Borchers**
+Lehrstuhl für Medieninformatik und Mensch-Computer-Interaktion
 Human-Computer Interaction Center
 
-RWTH Aachen    
-Ahornstr. 55    
-52074 Aachen        
+RWTH Aachen
+Ahornstr. 55
+52074 Aachen
 
-:fa-envelope: borchers@cs.rwth-aachen.de    
+:fa-envelope: borchers@cs.rwth-aachen.de
 :fa-phone: (0241) 80-21050
 
-**Prof. Dr. Heidi Schelhowe**     
+**Prof. Dr. Heidi Schelhowe**
 AG "Digitale Medien in der Bildung"
 
-Universität Bremen    
-Bibliothektstr.1    
-28359 Bremen    
+Universität Bremen
+Bibliothektstr.1
+28359 Bremen
 
-:fa-envelope: schelhow@tzi.de    
+:fa-envelope: schelhow@tzi.de
 :fa-phone: (0421) 218-64371
 
-**Prof. Stefan Neudecker**     
+**Prof. Stefan Neudecker**
 Lehrstuhl Design by Technology am
 Fachbereich Gestaltung
 
-Folkwang Universität der Künste    
-Campus: Universität Duisburg-Essen    
-Universitätsstr. 12, Gebäude R12    
+Folkwang Universität der Künste
+Campus: Universität Duisburg-Essen
+Universitätsstr. 12, Gebäude R12
 45141 Essen
 
-:fa-envelope: stefan.neudecker@folkwang-uni.de    
+:fa-envelope: stefan.neudecker@folkwang-uni.de
 :fa-phone: (0201) 183 2202
