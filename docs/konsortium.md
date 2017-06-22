@@ -1,7 +1,9 @@
+## Computerunterstützte Gruppenarbeit und Soziale Medien
+
 ![Campus Siegen Mitte - Unteres Schloss](/images/unteresschloss.jpg)  <span style="float: right; font-size:0.5em">Foto: JG</span>
 
-## Computerunterstützte Gruppenarbeit und Soziale Medien
-**Projektkoordination und Teilprojekt FAB101: Kooperation und Aneignung**
+**Projektkoordination und Teilprojekt FAB101: Kooperation und Aneignung**  
+
 
 Computerunterstützte Gruppenarbeit (engl. Computer-Supported Cooperative Work / CSCW) ist eine interdisziplinäre Forschungsrichtung, die neben der (Wirtschafts-)Informatik sowohl methodisch als auch inhaltlich auch von den Disziplinen Betriebswirtschaftslehre, Organisationswissenschaften, Arbeitswissenschaften, Psychologie, Soziologie und Anthropologie/Ethnographie getragen wird. Aus informatischer Perspektive ist CSCW ein Teilbereich der Wirtschaftsinformatik (engl. Information Systems) wie auch der HCI (Human-Computer Interaction, dtsch. Mensch-Maschine-Interaktion).
 

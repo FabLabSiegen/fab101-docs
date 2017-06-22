@@ -7,7 +7,7 @@ repo_name: 'GitHub'
 #remote_branch: if we use GH pages
 
 pages:
-    - Home: 'index.md'
+    - Über das Projekt: 'index.md'
     # - Projekt: 'projekt.md'
         #- Motivation: 'projekt/motivation.md'
         #- Ziele: 'projekt/ziele.md'
