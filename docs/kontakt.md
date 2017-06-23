@@ -1,51 +1,39 @@
-**Oliver Stickel** (Projektleiter)
+**Oliver Stickel** (Projektleiter)  
+:fa-home:&nbsp;&nbsp;&nbsp;Universität Siegen  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kohlbettstr. 15  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;57072 Siegen
+  
+:fa-envelope:&nbsp;&nbsp;&nbsp;[oliver.stickel@uni-siegen.de](mailto:oliver.stickel@uni-siegen.de)  
+:fa-phone:&nbsp;&nbsp;&nbsp;&nbsp;0151 / 240 299 89  
+</br>
 
-Universität Siegen
-Kohlbettstr. 15
-57072 Siegen
+**Prof. Dr. Volkmar Pipek** Lehrstuhl für Computerunterstützte Gruppenarbeit und soziale Medien  
+:fa-home:&nbsp;&nbsp;&nbsp;Universität Siegen  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kohlbettstr. 15  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;57072 Siegen 
+ 
+:fa-phone:&nbsp;&nbsp;&nbsp;&nbsp;(0271) 740-4068  
+</br>
 
-:fa-phone: 0151 / 240 299 89    
-:fa-envelope: oliver.stickel@uni-siegen.de
+**Prof. Dr. Jan Borchers** Lehrstuhl für Medieninformatik und Mensch-Computer-Interaktion
+Human-Computer Interaction Center  
+:fa-home:&nbsp;&nbsp;&nbsp;RWTH Aachen  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ahornstr. 55  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;52074 Aachen  
 
-**Prof. Dr. Volkmar Pipek**
-Lehrstuhl für Computerunterstützte Gruppenarbeit und soziale Medien
+:fa-phone:&nbsp;&nbsp;&nbsp;&nbsp;(0241) 80-21050  
+</br>
 
-Universität Siegen
-Kohlbettstr. 15
-57072 Siegen
+**Prof. Dr. Heidi Schelhowe** AG "Digitale Medien in der Bildung"  
+:fa-home:&nbsp;&nbsp;&nbsp;Universität Bremen  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bibliothektstr.1  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;28359 Bremen  
 
-:fa-envelope: volkmar.pipek@uni.siegen.de
-:fa-phone: (0271) 740-4068
 
-**Prof. Dr. Jan Borchers**
-Lehrstuhl für Medieninformatik und Mensch-Computer-Interaktion
-Human-Computer Interaction Center
+**Prof. Stefan Neudecker** Lehrstuhl Design by Technology am Fachbereich Gestaltung  
+:fa-home:&nbsp;&nbsp;&nbsp;Folkwang Universität der Künste  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Campus: Universität Duisburg-Essen  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Universitätsstr. 12, Gebäude R12  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;45141 Essen  
 
-RWTH Aachen
-Ahornstr. 55
-52074 Aachen
-
-:fa-envelope: borchers@cs.rwth-aachen.de
-:fa-phone: (0241) 80-21050
-
-**Prof. Dr. Heidi Schelhowe**
-AG "Digitale Medien in der Bildung"
-
-Universität Bremen
-Bibliothektstr.1
-28359 Bremen
-
-:fa-envelope: schelhow@tzi.de
-:fa-phone: (0421) 218-64371
-
-**Prof. Stefan Neudecker**
-Lehrstuhl Design by Technology am
-Fachbereich Gestaltung
-
-Folkwang Universität der Künste
-Campus: Universität Duisburg-Essen
-Universitätsstr. 12, Gebäude R12
-45141 Essen
-
-:fa-envelope: stefan.neudecker@folkwang-uni.de
-:fa-phone: (0201) 183 2202
+:fa-phone:&nbsp;&nbsp;&nbsp;(0201) 183 2202
