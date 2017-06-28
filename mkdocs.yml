@@ -36,7 +36,7 @@ extra_css:
     - css/footer.css
 
 extra:
-  logo: 'images/logo.svg'
+  logo: 'images/logo_fab101.png'
   palette:
     primary: 'grey'
     accent: 'orange'
