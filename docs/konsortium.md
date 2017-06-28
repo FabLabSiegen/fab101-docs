@@ -1,3 +1,5 @@
+![Abbildung Projektstruktur](/images/fab101.jpg)
+
 ## Uni Siegen
 Die **[Professur Computerunterstützte Gruppenarbeit und Soziale Medien (CSCW, Uni Siegen)](http://www.cscw.uni-siegen.de/)** untersucht die Gestaltung und Aneignung kooperativer technischer Systeme in Organisationen, insbesondere Fragen des kommunikationsorientierten Wissensmanagements und der Unterstützung verschiedener Communities. Die Kollaboration lokaler Akteure, kollaborative Arbeit sowie gemeinsames Lernen stehen hierbei oft im Vordergrund, ebenso wie der Orts- und Situationsbezug von Medien und Interaktionen, gerade in Lehr- und Forschungskontexten. Das Projekt [Fab Lab Siegen](http://fablab-siegen.de/) untersteht der fachlichen Leitung der Forschungsgruppe, ebenso das Regionalprojekt [Zeit.Raum Siegen](http://zeitraum-siegen.de/), das unter anderem mit dem Fab Lab Siegen kooperiert. Insbesondere in Zusammenarbeit mit anderen Hochschulen sowie dem Mittelstand arbeitet die Forschungsgruppe derzeit sehr aktiv an allen Facetten der digitalen Fabrikation, die kooperative Lern- und Arbeitsprozesse berühren.   
 
