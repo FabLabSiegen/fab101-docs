@@ -16,13 +16,13 @@
 :fa-phone:&nbsp;&nbsp;&nbsp;&nbsp;(0271) 740-4068  
 </br>
 
-**Prof. Dr. Jan Borchers** Lehrstuhl für Medieninformatik und Mensch-Computer-Interaktion
+**Prof. Dr. Jan Borchers** Lehrstuhl für Medieninformatik und Mensch-Computer-Interaktion am
 Human-Computer Interaction Center  
 :fa-home:&nbsp;&nbsp;&nbsp;RWTH Aachen  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ahornstr. 55  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;52074 Aachen  
 
-:fa-envelope:&nbsp;&nbsp;&nbsp;[borchers@cs.rwth-aachen.de@uni.siegen.de](mailto:borchers@cs.rwth-aachen.de)  
+:fa-envelope:&nbsp;&nbsp;&nbsp;[borchers@cs.rwth-aachen.de](mailto:borchers@cs.rwth-aachen.de)  
 :fa-phone:&nbsp;&nbsp;&nbsp;&nbsp;(0241) 80-21050  
 </br>
 
