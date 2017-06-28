@@ -1,5 +1,5 @@
 *Digitalisierung in der Hochschullehre:*
-Aufgabe des Forschungsverbundes **Fab101** ist es - ausgehend von den jeweiligen Fab Labs an den beteiligten Hochschulstandorten - in interdisziplinärer Zusammenarbeit Konzepte zu einer studiengangs- und hochschulübergreifenden Lehre in Laboren zur Digitalen Fabrikation (Fab Labs) praxisnah zu beforschen. Das Projekt ist Teil der Digitalisierungsstrategien der jeweiligen Hochschulen.
+Aufgabe des Forschungsverbundes **Fab101** ist es, in interdisziplinärer Zusammenarbeit Konzepte zu einer studiengangs- und hochschulübergreifenden Lehre in Laboren zur Digitalen Fabrikation ([Fab Labs](https://de.wikipedia.org/wiki/FabLab)) praxisnah zu beforschen. Hierbei wird ausgehend von den Fab Labs an den beteiligten Hochschulstandorten gearbeitet. Das Projekt ist Teil der Digitalisierungsstrategien der jeweiligen Hochschulen.
 
 > Fab Labs sind Fabrikationslabore, in denen unter anderem mit 3D-Druckern, Lasercuttern, Plottern, CNC-Fräsen und Mikrocontrollern gemeinsam gelernt, gearbeitet und geforscht wird.
 
