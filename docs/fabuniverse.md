@@ -1,10 +1,5 @@
 Mit der Einrichtung und dem Betrieb von Fab Labs und ähnlichen Laboren sind eine ganze Menge Herausforderungen verbunden. Weltweit gibt es einige Netzwerke, die Unterstützung bei und Kommunikation über solche Herausforderungen ermöglichen - bisher allerdings nicht spezifisch für den deutschen Hochschulkontext. 2017 riefen die KollegInnen von der TH Wildau und dem dortigen [ViNN:Lab](http://vinnlab.th-wildau.de/de/vinnlab-de/) zum Fab:UNIverse-Workshop auf, der einen wichtigen Startpunkt für mehr Vernetzung dieser Hochschul-Labs setzte. Ausgehend vom Projekt FAB101, das sich spezifisch mit der Rolle von Fab Labs in der deutschen Hochschullandschaft befasst, können wir nun auf das Konzept aufbauen und werden Fab:UNIverse 2018 und 2019 organisatorisch mittragen. Alle Fab Labs und Makerspaces an / bei deutschen Hochschulen sind hiermit herzlich eingeladen, zum  Programm zu diskutieren und beizutragen!
 
-![](images/lego.jpg)
-
-*Fab:UNIverse 2017 Visioning Workshop on Fab Labs of the future*
-
-
 ## Programm
 
 13:00 - 13:30	Begrüßung und Vorstellung  
@@ -18,11 +13,15 @@ Mit der Einrichtung und dem Betrieb von Fab Labs und ähnlichen Laboren sind ein
 17:30 - 18:00	Wrap-up
 Ab 18:00	Socializing, BBQ & Party im Fab Lab Siegen
 
+![](images/lego.jpg)
+
+*Fab:UNIverse 2017 Visioning Workshop on Fab Labs of the future*
+
 ## Ort & Zeit
 
 19.10.2018 im Fab Lab Siegen.
 
-Anschrift: Herrengarten 2, 57072 Siegen
+**Anschrift:** Herrengarten 2, 57072 Siegen
 
 ![](images/fls.jpg)
 
