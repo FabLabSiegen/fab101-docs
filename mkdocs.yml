@@ -18,9 +18,9 @@ pages:
     # - Publikationen: 'publikationen.md'
     # - Presse: 'presse.md'
     - Kontakt: 'kontakt.md'
-    - FabUniverse: 'fabuniverse.md'
+    - Fab:UNIverse: 'fabuniverse.md'
     - Impressum: 'impressum.md'
-  
+
 
 markdown_extensions:
   - admonition
