@@ -38,6 +38,8 @@ Für die Vorstellungsrunde bitten wir um Vorbereitung von 3-5 Slides / Illustrat
 - Regionale und globale Verankerung und Kooperationen
 - Bild- / Videomaterial zu euren Labs und Communities
 
+## Anmeldung
+
 Wir bitten um *Anmeldung bis zum 19.09.2018* an [melanie.stilz@uni-siegen.de](mailto:melanie.stilz@uni-siegen.de). Hier könnt Ihr gerne auch noch eigene Vorschläge zum Programm einbringen!
 
 
