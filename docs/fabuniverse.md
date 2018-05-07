@@ -2,6 +2,8 @@ Mit der Einrichtung und dem Betrieb von Fab Labs und ähnlichen Laboren sind ein
 
 ## Programm
 
+**Datum: Fr. 19.10.2018**
+
 13:00 - 13:30	Begrüßung und Vorstellung  
 13:30 - 15:00	Vorstellung teilnehmende Labs
 
@@ -17,9 +19,9 @@ Ab 18:00	Socializing, BBQ & Party im Fab Lab Siegen
 
 *Fab:UNIverse 2017 Visioning Workshop on Fab Labs of the future*
 
-## Ort & Zeit
+## Ort
 
-19.10.2018 im Fab Lab Siegen.
+19.10.2018 im [Fab Lab Siegen](www.fablab-siegen.de/kontakt).
 
 **Anschrift:** Herrengarten 2, 57072 Siegen
 
