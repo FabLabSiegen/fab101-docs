@@ -21,7 +21,7 @@ Ab 18:00	Socializing, BBQ & Party im Fab Lab Siegen
 
 ## Ort
 
-19.10.2018 im [Fab Lab Siegen](www.fablab-siegen.de/kontakt).
+19.10.2018 im [Fab Lab Siegen](https://fablab-siegen.de/kontakt).
 
 **Anschrift:** Herrengarten 2, 57072 Siegen
 
