@@ -12,7 +12,7 @@ Mit der Einrichtung und dem Betrieb von Fab Labs und ähnlichen Laboren sind ein
 15:30 - 16:30	Vertiefung 1 (z.B. Lehre in und mit (Fab) Labs: Beispiele, Erfahrungen, Entwicklungen)   
 16:30 - 17:30	Vertiefung 2 (z.B. Verortung, Governance und Organisation von Fab Labs an Hochschulen) 
 
-17:30 - 18:00	Wrap-up  
+17:30 - 18:00	Wrap-Up  
 Ab 18:00	Socializing, BBQ & Party im Fab Lab Siegen
 
 ![](images/lego.jpg)
