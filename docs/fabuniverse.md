@@ -4,13 +4,13 @@ Mit der Einrichtung und dem Betrieb von Fab Labs und ähnlichen Laboren sind ein
 
 **Datum: Fr. 19.10.2018**
 
-13:00 - 13:30	Begrüßung und Vorstellung  
-13:30 - 15:00	Vorstellung teilnehmende Labs
+13:00 - 14:00	Begrüßung und Vorstellung  
+14:00 - 15:00	Sammlung & Clustering
 
 15:00 - 15:30	Pause
 
-15:30 - 16:30	Lehre in und mit (Fab) Labs: Beispiele, Erfahrungen, Entwicklungen  
-16:30 - 17:30	Verortung, Governance und Organisation von Fab Labs an Hochschulen
+15:30 - 16:30	Vertiefung 1 (z.B. Lehre in und mit (Fab) Labs: Beispiele, Erfahrungen, Entwicklungen) 
+16:30 - 17:30	Vertiefung 2 (z.B. Verortung, Governance und Organisation von Fab Labs an Hochschulen) 
 
 17:30 - 18:00	Wrap-up  
 Ab 18:00	Socializing, BBQ & Party im Fab Lab Siegen
