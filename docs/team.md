@@ -7,3 +7,5 @@ Oliver is founder and coordinator of the university’s [Fab Lab](http://fablab-
 **Melanie Stilz**
 <img style="float: right; height: 150px; padding-right: 15px;" src="/images/M_Stilz-neu-klein.jpg">
 University of Siegen | [Website](http://www.cscw.uni-siegen.de/team/stilz/) | [Mail](mailto:melanie.stilz@uni-siegen.de)
+
+Melanie has a background in Anthropology and Computer Science and a PhD in Communications, researching on the intersection of digital technologies, communication studies, STS and international development. Melanies research interest is in Maker culture, digital labs, ICTs and education.
