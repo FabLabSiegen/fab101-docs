@@ -1,3 +1,5 @@
+## Safe the date! Fab:UNIverse 2019 am 5 November 2019 in Berlin
+
 Mit der Einrichtung und dem Betrieb von Fab Labs und ähnlichen Laboren sind eine ganze Menge Herausforderungen verbunden. Weltweit gibt es einige Netzwerke, die Unterstützung bei und Kommunikation über solche Herausforderungen ermöglichen - bisher allerdings nicht spezifisch für den deutschen Hochschulkontext. 2017 riefen die KollegInnen von der TH Wildau und dem dortigen [ViNN:Lab](http://vinnlab.th-wildau.de/de/vinnlab-de/) zum Fab:UNIverse-Workshop auf, der einen wichtigen Startpunkt für mehr Vernetzung dieser Hochschul-Labs setzte. Ausgehend vom Projekt FAB101, das sich spezifisch mit der Rolle von Fab Labs in der deutschen Hochschullandschaft befasst, können wir nun auf das Konzept aufbauen und werden Fab:UNIverse 2018 und 2019 organisatorisch mittragen. Alle Fab Labs und Makerspaces an / bei deutschen Hochschulen sind hiermit herzlich eingeladen, zum  Programm zu diskutieren und beizutragen!
 
 ## Programm
