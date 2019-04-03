@@ -12,7 +12,7 @@ Projektleiter
 <img style="float: right; height: 150px; padding-right: 15px;" src="/images/M_Stilz-neu-klein-sw.jpg">  
 Projektkoordination  
 :fa-home:&nbsp;&nbsp;&nbsp;Universität Siegen  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kohlbettstr. 15
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kohlbettstr. 15  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;57072 Siegen  
 :fa-envelope:&nbsp;&nbsp;&nbsp;[melanie.stilz@uni-siegen.de](mailto:melanie.stilz@uni-siegen.de)  
 </br>
