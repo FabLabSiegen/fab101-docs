@@ -14,6 +14,7 @@ t.b.d.
 **Datum: Mi. 06.11.2019**
 
 Beginn: 10:00Uhr
+
 Ende: 18:00Uhr
 
 ## Ort
