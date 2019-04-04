@@ -8,7 +8,7 @@ Projektleiter
 :fa-phone:&nbsp;&nbsp;&nbsp;&nbsp;0151 / 240 299 89
 </br>  
 
-**Melanie Stilz**
+**Dr. Melanie Stilz**
 <img style="float: right; height: 150px; padding-right: 15px;" src="/images/M_Stilz-neu-klein-sw.jpg">  
 Projektkoordination  
 :fa-home:&nbsp;&nbsp;&nbsp;Universität Siegen  
@@ -53,7 +53,7 @@ Medieninformatik und Mensch-Computer-Interaktion
 <img style="float: right; height: 150px; padding-right: 15px;" src="/images/Heidi_Schelhowe_bw.jpg">
 AG "Digitale Medien in der Bildung"  
 :fa-home:&nbsp;&nbsp;&nbsp;Universität Bremen  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bibliothektstr.1  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bibliothektstr.5  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;28359 Bremen  
 :fa-envelope:&nbsp;&nbsp;&nbsp;[schelhow@tzi.de](mailto:schelhow@tzi.de)  
 :fa-phone:&nbsp;&nbsp;&nbsp;&nbsp;(0421) 218-64371
@@ -63,7 +63,7 @@ AG "Digitale Medien in der Bildung"
 <img style="float: right; height: 150px; padding-right: 15px;" src="/images/IrisBockermann_sw.jpg">
 AG "Digitale Medien in der Bildung"  
 :fa-home:&nbsp;&nbsp;&nbsp;Universität Bremen  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bibliothektstr.1  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bibliothektstr.5  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;28359 Bremen  
 :fa-envelope:&nbsp;&nbsp;&nbsp;[bockerm@uni-bremen.de](mailto:bockerm@uni-bremen.de)  
 :fa-phone:&nbsp;&nbsp;&nbsp;&nbsp;(0421) 218-64389  
@@ -75,8 +75,8 @@ AG "Digitale Medien in der Bildung"
 Lehrstuhl Design by Technology am Fachbereich Gestaltung  
 :fa-home:&nbsp;&nbsp;&nbsp;Folkwang Universität der Künste  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Campus: Welterbe Zollverein | Quartier Nord
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;45309 Essen  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Martin-Kremmer-Straße 21   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;45327 Essen  
 :fa-envelope:&nbsp;&nbsp;&nbsp;[stefan.neudecker@folkwang-uni.de](mailto:stefan.neudecker@folkwang-uni.de)  
 :fa-phone:&nbsp;&nbsp;&nbsp;(0201) 6505-1528
 </br>  
@@ -87,7 +87,7 @@ Lehrstuhl Design by Technology am Fachbereich Gestaltung
 Lehrstuhl Design by Technology am Fachbereich Gestaltung  
 :fa-home:&nbsp;&nbsp;&nbsp;Folkwang Universität der Künste  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Campus: Welterbe Zollverein | Quartier Nord
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;45309 Essen  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Martin-Kremmer-Straße 21  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;45327 Essen  
 :fa-envelope:&nbsp;&nbsp;&nbsp;[daniel.wilkens@folkwang-uni.de](mailto:daniel.wilkens@folkwang-uni.de)    
 :fa-phone:&nbsp;&nbsp;&nbsp;(0201) 6505-1513
