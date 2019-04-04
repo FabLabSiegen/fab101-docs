@@ -14,8 +14,8 @@ Projektkoordination
 :fa-home:&nbsp;&nbsp;&nbsp;Universität Siegen  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kohlbettstr. 15  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;57072 Siegen  
-:fa-envelope:&nbsp;&nbsp;&nbsp;[melanie.stilz@uni-siegen.de](mailto:melanie.stilz@uni-siegen.de)  
-</br>
+:fa-envelope:&nbsp;&nbsp;&nbsp;[melanie.stilz@uni-siegen.de](mailto:melanie.stilz@uni-siegen.de)
+</br> 
 
 **Prof. Dr. Volkmar Pipek**  
 <img style="float: right; height: 150px; padding-right: 15px;" src="/images/Volkmar_Pipek_bw.jpg">
@@ -35,7 +35,7 @@ Lehrstuhl für Medieninformatik und Mensch-Computer-Interaktion am Human-Compute
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ahornstr. 55  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;52074 Aachen  
 :fa-envelope:&nbsp;&nbsp;&nbsp;[borchers@cs.rwth-aachen.de](mailto:borchers@cs.rwth-aachen.de)  
-:fa-phone:&nbsp;&nbsp;&nbsp;&nbsp;(0241) 80-21050  
+:fa-phone:&nbsp;&nbsp;&nbsp;&nbsp;(0241) 80-21050
 </br>
 
 **Anke Brocker**  
@@ -45,7 +45,7 @@ Medieninformatik und Mensch-Computer-Interaktion
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ahornstr. 55  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;52074 Aachen  
 :fa-envelope:&nbsp;&nbsp;&nbsp;[brocker@cs.rwth-aachen.de](mailto:brocker@cs.rwth-aachen.de)  
-:fa-phone:&nbsp;&nbsp;&nbsp;&nbsp;(0241) 80-21070
+:fa-phone:&nbsp;&nbsp;&nbsp;&nbsp;(0241) 80-21070  
 </br>  
 
 
@@ -56,7 +56,7 @@ AG "Digitale Medien in der Bildung"
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bibliothektstr.1  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;28359 Bremen  
 :fa-envelope:&nbsp;&nbsp;&nbsp;[schelhow@tzi.de](mailto:schelhow@tzi.de)  
-:fa-phone:&nbsp;&nbsp;&nbsp;&nbsp;(0421) 218-64371  
+:fa-phone:&nbsp;&nbsp;&nbsp;&nbsp;(0421) 218-64371
 </br>
 
 **Dr. Iris Bockermann**  
@@ -80,7 +80,6 @@ Lehrstuhl Design by Technology am Fachbereich Gestaltung
 :fa-envelope:&nbsp;&nbsp;&nbsp;[stefan.neudecker@folkwang-uni.de](mailto:stefan.neudecker@folkwang-uni.de)  
 :fa-phone:&nbsp;&nbsp;&nbsp;(0201) 6505-1528
 </br>  
-
 
 
 **Daniel Wilkens**  
