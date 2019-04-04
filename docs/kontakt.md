@@ -48,6 +48,7 @@ Medieninformatik und Mensch-Computer-Interaktion
 :fa-phone:&nbsp;&nbsp;&nbsp;&nbsp;(0241) 80-21070
 </br>
 
+
 **Prof. Dr. Heidi Schelhowe**  
 <img style="float: right; height: 150px; padding-right: 15px;" src="/images/Heidi_Schelhowe_bw.jpg">
 AG "Digitale Medien in der Bildung"  
@@ -56,6 +57,16 @@ AG "Digitale Medien in der Bildung"
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;28359 Bremen  
 :fa-envelope:&nbsp;&nbsp;&nbsp;[schelhow@tzi.de](mailto:schelhow@tzi.de)  
 :fa-phone:&nbsp;&nbsp;&nbsp;&nbsp;(0421) 218-64371  
+</br>
+
+**Dr. Iris Bockermann**  
+<img style="float: right; height: 150px; padding-right: 15px;" src="/images/IrisBockermann_sw.jpg">
+AG "Digitale Medien in der Bildung"  
+:fa-home:&nbsp;&nbsp;&nbsp;Universität Bremen  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bibliothektstr.1  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;28359 Bremen  
+:fa-envelope:&nbsp;&nbsp;&nbsp;[bockerm@uni-bremen.de](mailto:bockerm@uni-bremen.de)  
+:fa-phone:&nbsp;&nbsp;&nbsp;&nbsp;(0421) 218-64389  
 </br>
 
 
