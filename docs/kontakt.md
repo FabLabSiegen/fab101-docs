@@ -41,7 +41,7 @@ Lehrstuhl für Medieninformatik und Mensch-Computer-Interaktion am Human-Compute
 </br>
 
 **Anke Brocker**  
-<img style="float: right; height: 150px; padding-right: 15px;" src="/images/Anke_Brocker_sw.jpg">  
+<img style="float: right; height: 150px; padding-right: 15px;" src="/images/Anke_Brocker_sw.jpg">
 Medieninformatik und Mensch-Computer-Interaktion
 :fa-home:&nbsp;&nbsp;&nbsp;RWTH Aachen  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ahornstr. 55  
