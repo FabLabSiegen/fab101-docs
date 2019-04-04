@@ -6,7 +6,7 @@ Projektleiter
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;57072 Siegen  
 :fa-envelope:&nbsp;&nbsp;&nbsp;[oliver.stickel@uni-siegen.de](mailto:oliver.stickel@uni-siegen.de)  
 :fa-phone:&nbsp;&nbsp;&nbsp;&nbsp;0151 / 240 299 89
-</br>
+</br>  
 
 **Melanie Stilz**
 <img style="float: right; height: 150px; padding-right: 15px;" src="/images/M_Stilz-neu-klein-sw.jpg">  
@@ -25,7 +25,7 @@ Lehrstuhl für Computerunterstützte Gruppenarbeit und soziale Medien
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;57072 Siegen  
 :fa-envelope:&nbsp;&nbsp;&nbsp;[volkmar.pipek@uni.siegen.de](mailto:volkmar.pipek@uni.siegen.de)  
 :fa-phone:&nbsp;&nbsp;&nbsp;&nbsp;(0271) 740-4068  
-</br>
+</br>  
 
 
 **Prof. Dr. Jan Borchers**  
@@ -46,7 +46,7 @@ Medieninformatik und Mensch-Computer-Interaktion
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;52074 Aachen  
 :fa-envelope:&nbsp;&nbsp;&nbsp;[brocker@cs.rwth-aachen.de](mailto:brocker@cs.rwth-aachen.de)  
 :fa-phone:&nbsp;&nbsp;&nbsp;&nbsp;(0241) 80-21070
-</br>
+</br>  
 
 
 **Prof. Dr. Heidi Schelhowe**  
@@ -67,15 +67,27 @@ AG "Digitale Medien in der Bildung"
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;28359 Bremen  
 :fa-envelope:&nbsp;&nbsp;&nbsp;[bockerm@uni-bremen.de](mailto:bockerm@uni-bremen.de)  
 :fa-phone:&nbsp;&nbsp;&nbsp;&nbsp;(0421) 218-64389  
-</br>
+</br>  
 
 
 **Prof. Stefan Neudecker**  
 <img style="float: right; height: 150px; padding-right: 15px;" src="/images/Stefan_Neudecker.jpg">
 Lehrstuhl Design by Technology am Fachbereich Gestaltung  
 :fa-home:&nbsp;&nbsp;&nbsp;Folkwang Universität der Künste  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Campus: Universität Duisburg-Essen  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Campus: Welterbe Zollverein | Quartier Nord
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Universitätsstr. 12, Gebäude R12  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;45141 Essen 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;45309 Essen 
 :fa-envelope:&nbsp;&nbsp;&nbsp;[stefan.neudecker@folkwang-uni.de](mailto:stefan.neudecker@folkwang-uni.de)  
-:fa-phone:&nbsp;&nbsp;&nbsp;(0201) 183 2202
+:fa-phone:&nbsp;&nbsp;&nbsp;(0201) 6505-1528
+</br> 
+
+
+**Daniel Wilkens**  
+<img style="float: right; height: 150px; padding-right: 15px;" src="/images/Daniel_Wilkens_sw.jpg">
+Lehrstuhl Design by Technology am Fachbereich Gestaltung  
+:fa-home:&nbsp;&nbsp;&nbsp;Folkwang Universität der Künste  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Campus: Welterbe Zollverein | Quartier Nord 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;45309 Essen 
+:fa-envelope:&nbsp;&nbsp;&nbsp;[daniel.wilkens@folkwang-uni.de](mailto:daniel.wilkens@folkwang-uni.de)  
+:fa-phone:&nbsp;&nbsp;&nbsp;(0201) 6505-1513
