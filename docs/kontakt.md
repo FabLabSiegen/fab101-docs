@@ -74,7 +74,7 @@ AG "Digitale Medien in der Bildung"
 <img style="float: right; height: 150px; padding-right: 15px;" src="/images/Stefan_Neudecker.jpg">
 Lehrstuhl Design by Technology am Fachbereich Gestaltung  
 :fa-home:&nbsp;&nbsp;&nbsp;Folkwang Universität der Künste  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Campus: Welterbe Zollverein | Quartier Nord  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Campus: Welterbe Zollverein | Quartier Nord
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;45309 Essen  
 :fa-envelope:&nbsp;&nbsp;&nbsp;[stefan.neudecker@folkwang-uni.de](mailto:stefan.neudecker@folkwang-uni.de)  
@@ -87,7 +87,7 @@ Lehrstuhl Design by Technology am Fachbereich Gestaltung
 <img style="float: right; height: 150px; padding-right: 15px;" src="/images/Daniel_Wilkens_sw.jpg">
 Lehrstuhl Design by Technology am Fachbereich Gestaltung  
 :fa-home:&nbsp;&nbsp;&nbsp;Folkwang Universität der Künste  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Campus: Welterbe Zollverein | Quartier Nord   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Campus: Welterbe Zollverein | Quartier Nord
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;45309 Essen 
 :fa-envelope:&nbsp;&nbsp;&nbsp;[daniel.wilkens@folkwang-uni.de](mailto:daniel.wilkens@folkwang-uni.de)  
