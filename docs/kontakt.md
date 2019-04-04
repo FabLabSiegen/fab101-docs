@@ -1,5 +1,5 @@
 **Oliver Stickel**  
-<img style="float: right; height: 150px; padding-right: 15px;" src="/images/Oliver_Stickel.jpg">  
+<img style="float: right; height: 150px; padding-right: 15px;" src="/images/Oliver_Stickel.jpg">   
 Projektleiter  
 :fa-home:&nbsp;&nbsp;&nbsp;Universität Siegen  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kohlbettstr. 15  
@@ -40,6 +40,16 @@ Lehrstuhl für Medieninformatik und Mensch-Computer-Interaktion am Human-Compute
 :fa-phone:&nbsp;&nbsp;&nbsp;&nbsp;(0241) 80-21050  
 </br>
 
+**Anke Brocker**  
+<img style="float: right; height: 150px; padding-right: 15px;" src="/images/Anke_Brocker_sw.jpg">  
+Medieninformatik und Mensch-Computer-Interaktion
+:fa-home:&nbsp;&nbsp;&nbsp;RWTH Aachen  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ahornstr. 55  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;52074 Aachen  
+
+:fa-envelope:&nbsp;&nbsp;&nbsp;[brocker@cs.rwth-aachen.de](mailto:brocker@cs.rwth-aachen.de)  
+:fa-phone:&nbsp;&nbsp;&nbsp;&nbsp;(0241) 80-21070
+</br>
 
 **Prof. Dr. Heidi Schelhowe**  
 <img style="float: right; height: 150px; padding-right: 15px;" src="/images/Heidi_Schelhowe_bw.jpg">
