@@ -79,7 +79,8 @@ Lehrstuhl Design by Technology am Fachbereich Gestaltung
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;45309 Essen 
 :fa-envelope:&nbsp;&nbsp;&nbsp;[stefan.neudecker@folkwang-uni.de](mailto:stefan.neudecker@folkwang-uni.de)  
 :fa-phone:&nbsp;&nbsp;&nbsp;(0201) 6505-1528
-</br> 
+</br>  
+
 
 
 **Daniel Wilkens**  
