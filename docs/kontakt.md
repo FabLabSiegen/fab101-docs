@@ -1,5 +1,5 @@
 **Oliver Stickel**  
-<img style="float: right; height: 150px; padding-right: 15px;" src="/images/Oliver_Stickel.jpg">   
+<img style="float: right; height: 150px; padding-right: 15px;" src="/images/Oliver_Stickel.jpg">
 Projektleiter  
 :fa-home:&nbsp;&nbsp;&nbsp;Universität Siegen  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kohlbettstr. 15  
