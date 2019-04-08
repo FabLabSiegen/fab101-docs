@@ -69,6 +69,16 @@ AG "Digitale Medien in der Bildung"
 :fa-phone:&nbsp;&nbsp;&nbsp;&nbsp;(0421) 218-64389  
 </br>  
 
+**Antje Moebus**  
+<img style="float: right; height: 150px; padding-right: 15px;" src="/images/Antje Moebus_sw.jpg">
+AG "Digitale Medien in der Bildung"  
+:fa-home:&nbsp;&nbsp;&nbsp;Universität Bremen  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bibliothektstr.5  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;28359 Bremen  
+:fa-envelope:&nbsp;&nbsp;&nbsp;[moebus@uni-bremen.de](mailto:moebus@uni-bremen.de)  
+:fa-phone:&nbsp;&nbsp;&nbsp;&nbsp;(0421) 218-64388  
+</br>
+
 
 **Prof. Stefan Neudecker**  
 <img style="float: right; height: 150px; padding-right: 15px;" src="/images/Stefan_Neudecker.jpg">
