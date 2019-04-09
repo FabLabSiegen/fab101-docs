@@ -5,20 +5,13 @@ site_name: 'FAB101'
 #remote_branch: if we use GH pages
 
 pages:
-    - Über das Projekt: 'index.md'
-    # - Projekt: 'projekt.md'
-        #- Motivation: 'projekt/motivation.md'
-        #- Ziele: 'projekt/ziele.md'
-        #- Methoden und Vorgehen: 'projekt/methoden.md'
-    - Verbund: 'konsortium.md'
-    #    - Universität Siegen: 'konsortium/uni_siegen.md'
-    #    - RWTH Aachen: 'konsortium/rwth_aachen.md'
-    #    - Universität Bremen: 'konsortium/uni_bremen.md'
-    #    - Folkwang Universität Duisburg/Essen: 'konsortium/folkwang_uni.md'
-    # - Publikationen: 'publikationen.md'
-    # - Presse: 'presse.md'
+    - Das Projekt: 'index.md'
+    - Das Team: 'konsortium.md'
+#   - Publikationen: 'publikationen.md'
+#   - Presse: 'presse.md'
     - Kontakt: 'kontakt.md'
-    - Fab:UNIverse: 'fabuniverse.md'
+    - Fab:UNIverse 2019: 'fabuniverse.md'
+    - Fab:UNIverse 2018: 'fabuniverse-2018.md'
     - Impressum: 'impressum.md'
 
 
