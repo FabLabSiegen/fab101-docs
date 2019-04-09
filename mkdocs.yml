@@ -6,7 +6,7 @@ site_name: 'FAB101'
 
 pages:
     - Das Projekt: 'index.md'
-    - Das Team: 'konsortium.md'
+    - Die Partner: 'konsortium.md'
 #   - Publikationen: 'publikationen.md'
 #   - Presse: 'presse.md'
     - Kontakt: 'kontakt.md'
