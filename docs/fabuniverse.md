@@ -22,13 +22,13 @@ Beginn: 9:00Uhr
 | 09:30         | Begrüßung              |
 | 10:00         | Das Fab-Lab-Handbuch: Wie eröffnet man einen akademischen Makerspace? Kurze Vorstellung der einzelnen Kapitel             | 
 | 11:00 - 11:15 | Kaffee Pause           |
-| 11:15         |
-| 12:30         |
-| 13:30         |
-| 15:30         |
-| 16:00         |
-| 16:45         |
-| 17:45         |
+| 11:15         | Workshop Phase I: drängende Fragen akademischer Makerspaces - was kann Das-Fab-Lab-Handbuch leisten?
+| 12:30         | Mittagspause
+| 13:30         | Workshop Phase II
+| 15:30         | Kaffeepause
+| 16:00         | Vorstellung der Ergebnisse
+| 16:45         | Podiumsdiskussion: “Makerspaces als Hochschulinfrastruktur”
+| 17:45         | Abschluss
 
 Ende: 18:00Uhr
 
