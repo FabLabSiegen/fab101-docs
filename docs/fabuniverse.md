@@ -14,15 +14,21 @@ Das vorläufige Programm:
 ## Programm 2019
 
 **Datum: Mi. 06.11.2019**
-
 Beginn: 9:00Uhr
-Zeit | Programmpunkt
---- | --- |
-9:00 | Ankommen, Registrierung
-09:30 | Begrüßung
-10:00 | Das Fab-Lab-Handbuch: Wie eröffnet man einen akademischen Makerspace? Kurze Vorstellung der einzelnen Kapitel
-*Still* | `renders` | **nicely**
-1 | 2 | 3
+
+| Zeit          | Programmpunkt          | 
+| ------------- |:-----------------------| 
+| 9:00          | Ankommen, Registrierung|
+| 09:30         | Begrüßung              |
+| 10:00         | Das Fab-Lab-Handbuch: Wie eröffnet man einen akademischen Makerspace? Kurze Vorstellung der einzelnen Kapitel             | 
+| 11:00 - 11:15 | Kaffee Pause           |
+| 11:15         |
+| 12:30         |
+| 13:30         |
+| 15:30         |
+| 16:00         |
+| 16:45         |
+| 17:45         |
 
 Ende: 18:00Uhr
 
