@@ -45,14 +45,9 @@ Im [Einstein Center Digital Future](https://www.digital-future.berlin/) Berlin.
 </p>
 
 
+## Anmeldung und Beiträge
 
-## Vorbereitung und Beiträge
-
-t.b.d.
-
-## Anmeldung
-
-Wir bitten um *Anmeldung bis zum 15.09.2019* an [melanie.stilz@uni-siegen.de](mailto:melanie.stilz@uni-siegen.de). Hier könnt Ihr gerne auch noch eigene Vorschläge zum Programm einbringen!
+Wir bitten um *Anmeldung bis zum 15.09.2019* an [melanie.stilz@uni-siegen.de](mailto:melanie.stilz@uni-siegen.de). Hier bekommt ihr auch weitere Informationen zur Vorbereitung und Teilnahme.
 
 
 ## Organisation
