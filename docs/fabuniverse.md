@@ -35,7 +35,7 @@ Ende: 18:00Uhr
 
 ## Ort und Anfahrt
 
-Im [Einstein Center for Digital Future](https://www.digital-future.berlin/) Berlin.
+Im [Einstein Center Digital Future](https://www.digital-future.berlin/) Berlin.
 
 **Anschrift:** Wilhelmstraße 67, 10117 Berlin
 
