@@ -21,7 +21,7 @@ Beginn: 9:00Uhr
 | 9:00          | Ankommen, Registrierung|
 | 09:30         | Begrüßung              |
 | 10:00         | Das Fab-Lab-Handbuch: Wie eröffnet man einen akademischen Makerspace? Kurze Vorstellung der einzelnen Kapitel             | 
-| 11:00 - 11:15 | Kaffee Pause           |
+| 11:00         | Kaffee Pause           |
 | 11:15         | Workshop Phase I: drängende Fragen akademischer Makerspaces - was kann Das-Fab-Lab-Handbuch leisten?
 | 12:30         | Mittagspause
 | 13:30         | Workshop Phase II
