@@ -1,6 +1,6 @@
 ## Save the date - 06.11.2019
 
-!!! important ""
+!!! important "Save the Date"
     **Fab:UNIverse 2019 findet am 06. November 2019 im ECDF in Berlin statt!**  
 
 ## Hintergrund
