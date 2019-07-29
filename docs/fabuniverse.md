@@ -21,13 +21,13 @@ Beginn: 9:00Uhr
 | 9:00          | Ankommen, Registrierung|
 | 09:30         | Begrüßung              |
 | 10:00         | Makerspaces als Hochschulinfrastruktur |
-| 11:00         | Kaffee Pause           |
+| 11:00         | Kaffeepause           |
 | 11:15         | Workshop Phase I: Status quo akademischer Makerspaces|
 | 12:30         | Mittagspause|
 | 13:30         | Workshop Phase II|
 | 15:30         | Kaffeepause|
 | 16:00         | Vorstellung der Ergebnisse|
-| 16:45         | Podiumsdiskussion: “Hochschul-Digitalisierungsstrategie und Makerspaces”|
+| 16:45         | Podiumsdiskussion: "Hochschul-Digitalisierungsstrategie und Makerspaces"|
 | 17:45         | Abschluss|
 
 Ende: 18:00Uhr
