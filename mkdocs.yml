@@ -4,8 +4,9 @@ site_name: 'FAB101'
 #site_description: 'todo'
 #remote_branch: if we use GH pages
 
-pages:
+nav:
     - Das Projekt: 'index.md'
+    - English Summary: 'english.md'
     - Die Partner: 'konsortium.md'
 #   - Publikationen: 'publikationen.md'
 #   - Presse: 'presse.md'
@@ -15,30 +16,26 @@ pages:
     - FabLearn 2019: 'fablearn-2019.md'
     - Impressum: 'impressum.md'
 
-
 markdown_extensions:
   - admonition
-  - codehilite(linenums=true)
-  - toc(permalink=true)
+  - meta
+  - codehilite
+  - toc:
+      permalink: true
   - footnotes
-  - fontawesome_markdown
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.details
+  - pymdownx.mark
 
-theme_dir: 'theme/material'
-
-extra_css:
-    - css/extra.css
-    - css/footer.css
-
-extra:
+theme: 
+  name: material
+  custom_dir: 'theme'
   logo: 'images/logo_fab101.png'
   palette:
     primary: 'grey'
     accent: 'orange'
-  font:
-#    text: 'Open Sans'
-    code: 'Inconsolata'
-  social:
-    - type: 'twitter'
-      link: 'https://twitter.com/cscwsiegen'
-    - type: 'facebook'
-      link: 'http://facebook.com/fablabsiegen'
+
+extra_css:
+#    - css/extra.css
+    - css/footer.css

@@ -1,103 +1,103 @@
 **Oliver Stickel**  
 <img style="float: right; height: 150px; padding-right: 15px;" src="/images/Oliver_Stickel.jpg">
-Projektleiter  
-:fa-home:&nbsp;&nbsp;&nbsp;Universität Siegen  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kohlbettstr. 15  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;57072 Siegen  
-:fa-envelope:&nbsp;&nbsp;&nbsp;[oliver.stickel@uni-siegen.de](mailto:oliver.stickel@uni-siegen.de)  
-:fa-phone:&nbsp;&nbsp;&nbsp;&nbsp;0151 / 240 299 89
+Projektleiter 
+Universität Siegen  
+Kohlbettstr. 15  
+57072 Siegen   
+0271) 740-2576  
+[oliver.stickel@uni-siegen.de](mailto:oliver.stickel@uni-siegen.de)  
 </br>  
 
 **Dr. Melanie Stilz**
 <img style="float: right; height: 150px; padding-right: 15px;" src="/images/M_Stilz-neu-klein-sw.jpg">  
 Projektkoordination  
-:fa-home:&nbsp;&nbsp;&nbsp;Universität Siegen  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kohlbettstr. 15  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;57072 Siegen  
-:fa-envelope:&nbsp;&nbsp;&nbsp;[melanie.stilz@uni-siegen.de](mailto:melanie.stilz@uni-siegen.de)
+Universität Siegen
+Kohlbettstr. 15  
+57072 Siegen   
+[melanie.stilz@uni-siegen.de](mailto:melanie.stilz@uni-siegen.de)
 </br> 
 
 **Prof. Dr. Volkmar Pipek**  
 <img style="float: right; height: 150px; padding-right: 15px;" src="/images/Volkmar_Pipek_bw.jpg">
-Lehrstuhl für Computerunterstützte Gruppenarbeit und soziale Medien  
-:fa-home:&nbsp;&nbsp;&nbsp;Universität Siegen  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kohlbettstr. 15  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;57072 Siegen  
-:fa-envelope:&nbsp;&nbsp;&nbsp;[volkmar.pipek@uni.siegen.de](mailto:volkmar.pipek@uni.siegen.de)  
-:fa-phone:&nbsp;&nbsp;&nbsp;&nbsp;(0271) 740-4068  
+Lehrstuhl für CSCW & Social Media
+Universität Siegen  
+Kohlbettstr. 15 
+57072 Siegen  
+[volkmar.pipek@uni.siegen.de](mailto:volkmar.pipek@uni.siegen.de)  
+(0271) 740-4068  
 </br>  
 
 
 **Prof. Dr. Jan Borchers**  
 <img style="float: right; height: 150px; padding-right: 15px;" src="/images/Jan_Borchers_bw.jpg">
 Lehrstuhl für Medieninformatik und Mensch-Computer-Interaktion am Human-Computer Interaction Center  
-:fa-home:&nbsp;&nbsp;&nbsp;RWTH Aachen  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ahornstr. 55  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;52074 Aachen  
-:fa-envelope:&nbsp;&nbsp;&nbsp;[borchers@cs.rwth-aachen.de](mailto:borchers@cs.rwth-aachen.de)  
-:fa-phone:&nbsp;&nbsp;&nbsp;&nbsp;(0241) 80-21050
+RWTH Aachen  
+Ahornstr. 55  
+52074 Aachen  
+[borchers@cs.rwth-aachen.de](mailto:borchers@cs.rwth-aachen.de)  
+(0241) 80-21050
 </br>
 
 **Anke Brocker**  
 <img style="float: right; height: 150px; padding-right: 15px;" src="/images/Anke_Brocker_sw.jpg">
 Medieninformatik und Mensch-Computer-Interaktion  
-:fa-home:&nbsp;&nbsp;&nbsp;RWTH Aachen  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ahornstr. 55  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;52074 Aachen  
-:fa-envelope:&nbsp;&nbsp;&nbsp;[brocker@cs.rwth-aachen.de](mailto:brocker@cs.rwth-aachen.de)  
-:fa-phone:&nbsp;&nbsp;&nbsp;&nbsp;(0241) 80-21070  
+RWTH Aachen  
+Ahornstr. 55  
+52074 Aachen  
+brocker@cs.rwth-aachen.de](mailto:brocker@cs.rwth-aachen.de)  
+(0241) 80-21070  
 </br>  
 
 
 **Prof. Dr. Heidi Schelhowe**  
 <img style="float: right; height: 150px; padding-right: 15px;" src="/images/Heidi_Schelhowe_bw.jpg">
 AG "Digitale Medien in der Bildung"  
-:fa-home:&nbsp;&nbsp;&nbsp;Universität Bremen  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bibliothektstr.5  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;28359 Bremen  
-:fa-envelope:&nbsp;&nbsp;&nbsp;[schelhow@tzi.de](mailto:schelhow@tzi.de)  
-:fa-phone:&nbsp;&nbsp;&nbsp;&nbsp;(0421) 218-64371
+Universität Bremen  
+Bibliothektstr.5  
+28359 Bremen  
+[schelhow@tzi.de](mailto:schelhow@tzi.de)  
+(0421) 218-64371
 </br>
 
 **Dr. Iris Bockermann**  
 <img style="float: right; height: 150px; padding-right: 15px;" src="/images/IrisBockermann_sw.jpg">
 AG "Digitale Medien in der Bildung"  
-:fa-home:&nbsp;&nbsp;&nbsp;Universität Bremen  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bibliothektstr.5  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;28359 Bremen  
-:fa-envelope:&nbsp;&nbsp;&nbsp;[bockerm@uni-bremen.de](mailto:bockerm@uni-bremen.de)  
-:fa-phone:&nbsp;&nbsp;&nbsp;&nbsp;(0421) 218-64389  
+Universität Bremen  
+Bibliothektstr.5  
+28359 Bremen  
+[bockerm@uni-bremen.de](mailto:bockerm@uni-bremen.de)  
+(0421) 218-64389  
 </br>  
 
 **Antje Moebus**  
 <img style="float: right; height: 150px; padding-right: 15px;" src="/images/Antje Moebus_sw.jpg">
 AG "Digitale Medien in der Bildung"  
-:fa-home:&nbsp;&nbsp;&nbsp;Universität Bremen  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bibliothektstr.5  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;28359 Bremen  
-:fa-envelope:&nbsp;&nbsp;&nbsp;[moebus@uni-bremen.de](mailto:moebus@uni-bremen.de)  
-:fa-phone:&nbsp;&nbsp;&nbsp;&nbsp;(0421) 218-64388  
+Universität Bremen  
+Bibliothektstr.5  
+28359 Bremen  
+[moebus@uni-bremen.de](mailto:moebus@uni-bremen.de)  
+(0421) 218-64388  
 </br>
 
 
 **Prof. Stefan Neudecker**  
 <img style="float: right; height: 150px; padding-right: 15px;" src="/images/Stefan_Neudecker.jpg">
 Lehrstuhl Design by Technology am Fachbereich Gestaltung  
-:fa-home:&nbsp;&nbsp;&nbsp;Folkwang Universität der Künste  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Campus: Welterbe Zollverein | Quartier Nord  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Martin-Kremmer-Straße 21   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;45327 Essen  
-:fa-envelope:&nbsp;&nbsp;&nbsp;[stefan.neudecker@folkwang-uni.de](mailto:stefan.neudecker@folkwang-uni.de)  
-:fa-phone:&nbsp;&nbsp;&nbsp;(0201) 6505-1528
+Folkwang Universität der Künste  
+Campus: Welterbe Zollverein | Quartier Nord  
+Martin-Kremmer-Straße 21   
+45327 Essen  
+[stefan.neudecker@folkwang-uni.de](mailto:stefan.neudecker@folkwang-uni.de)  
+(0201) 6505-1528
 </br>  
 
 
 **Daniel Wilkens**  
 <img style="float: right; height: 150px; padding-right: 15px;" src="/images/Daniel_Wilkens_sw.jpg">
 Lehrstuhl Design by Technology am Fachbereich Gestaltung  
-:fa-home:&nbsp;&nbsp;&nbsp;Folkwang Universität der Künste  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Campus: Welterbe Zollverein | Quartier Nord  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Martin-Kremmer-Straße 21  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;45327 Essen  
-:fa-envelope:&nbsp;&nbsp;&nbsp;[daniel.wilkens@folkwang-uni.de](mailto:daniel.wilkens@folkwang-uni.de)    
-:fa-phone:&nbsp;&nbsp;&nbsp;(0201) 6505-1513
+Folkwang Universität der Künste  
+Campus: Welterbe Zollverein | Quartier Nord  
+Martin-Kremmer-Straße 21  
+45327 Essen  
+[daniel.wilkens@folkwang-uni.de](mailto:daniel.wilkens@folkwang-uni.de)    
+Tel. (0201) 6505-1513

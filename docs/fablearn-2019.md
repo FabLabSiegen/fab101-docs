@@ -1,3 +1,5 @@
+![](images/fab101-survey-summary.jpg)
+
 ## Workshop Invitation
 
 For [FabLearn Europe 2019](http://fablearn.eu/), we invite Lab managers, practitioners and other stakeholders of academic Fab Labs in Europe for a  gathering. We will share and discuss learnings from our own recent participatory and managerial work in/with four German academic Fab Labs - and we hope *you* will share your experiences with establishing and sustaining an academic (Fab) Lab with us as well. The workshop will also be an opportunity to discuss more cooperation between European academic (Fab) Lab managers / operators and existing related channels, communities, events or projects.
