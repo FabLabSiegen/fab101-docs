@@ -19,12 +19,9 @@ nav:
 markdown_extensions:
   - admonition
   - meta
-  - codehilite
   - toc:
       permalink: true
   - footnotes
-  - pymdownx.tasklist:
-      custom_checkbox: true
   - pymdownx.details
   - pymdownx.mark
 
