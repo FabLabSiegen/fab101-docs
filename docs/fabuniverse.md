@@ -7,7 +7,7 @@
 
 ## Hintergrund
 
-Mit der Einrichtung und dem Betrieb von öffentlich zugänglichen Makerspaces, Fab Labs und ähnlichen Laboren im Hochschulkontext sind eine ganze Menge Herausforderungen verbunden. Dazu tauschen sich seit 2017 eine zunehmende Zahl an Vertretern solcher Orte in der jährlichen Veranstaltung Fab:UNIverse aus. Auch 2019 wollen wir wieder die Möglichkiet zu Vernetzung und Austausch von Hochschul (Fab) Labs bieten und diesmal die Ergebnisse des Forschungsprojektes FAB101 in Form eines Handbuchs für akademische Makerspaces präsentieren und zur Diskussion stellen.
+Mit der Einrichtung und dem Betrieb von öffentlich zugänglichen Fab Labs, (Maker-)Spaces und ähnlichen Laboren im Hochschulkontext sind eine ganze Menge Herausforderungen verbunden. Dazu tauschen sich seit 2017 eine zunehmende Zahl an Vertretern solcher Orte in der jährlichen Veranstaltung Fab:UNIverse aus. Auch 2019 wollen wir wieder die Möglichkeit zu Vernetzung und Austausch von Hochschul (Fab) Labs bieten und diesmal auch die Ergebnisse des Forschungsprojektes FAB101 in Form eines Handbuchs für akademische Makerspaces präsentieren und zur Diskussion stellen.
 
 Fab:UNIverse 2019 findet am 06.11.2019 ganztägig im Einstein Centre Digital Future (ECDF) im Herzen von Berlin statt. Aufgrund der begrenzten Plätze bitten wir um rechtzeitige *Anmeldung bis spätestens zum 15.09.2019* an [melanie.stilz@uni-siegen.de](mailto:melanie.stilz@uni-siegen.de). Am 5.11 ab 19h findet ein informelles Kennenlernen statt zu dem alle herzlich eingeladen sind, der Ort wird in Kürze bekannt gegeben.
 Das vorläufige Programm:
@@ -22,13 +22,13 @@ Beginn: 9:00Uhr
 | ------------- |:-----------------------| 
 | 9:00          | Ankommen, Registrierung|
 | 09:30         | Begrüßung              |
-| 10:00         | Makerspaces als Hochschulinfrastruktur |
+| 10:00         | Fab Labs als Hochschulinfrastruktur: Stand der Forschung |
 | 11:00         | Kaffeepause           |
-| 11:15         | Workshop Phase I: Status quo akademischer Makerspaces|
+| 11:15         | Workshop Phase I|
 | 12:30         | Mittagspause|
 | 13:30         | Workshop Phase II|
 | 15:30         | Kaffeepause|
-| 16:00         | Vorstellung der Ergebnisse|
+| 16:00         | Vorstellung der Workshop-Ergebnisse|
 | 16:45         | Podiumsdiskussion: "Hochschul-Digitalisierungsstrategie und Makerspaces"|
 | 17:45         | Abschluss|
 
