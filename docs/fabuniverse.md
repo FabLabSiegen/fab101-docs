@@ -9,7 +9,7 @@
 
 Mit der Einrichtung und dem Betrieb von öffentlich zugänglichen Fab Labs, (Maker-)Spaces und ähnlichen Laboren im Hochschulkontext sind eine ganze Menge Herausforderungen verbunden. Dazu tauschen sich seit 2017 eine zunehmende Zahl an Vertretern solcher Orte in der jährlichen Veranstaltung Fab:UNIverse aus. Auch 2019 wollen wir wieder die Möglichkeit zu Vernetzung und Austausch von Hochschul (Fab) Labs bieten und diesmal auch die Ergebnisse des Forschungsprojektes FAB101 in Form eines Handbuchs für akademische Makerspaces präsentieren und zur Diskussion stellen.
 
-Fab:UNIverse 2019 findet am 06.11.2019 ganztägig im Einstein Centre Digital Future (ECDF) im Herzen von Berlin statt. Aufgrund der begrenzten Plätze bitten wir um rechtzeitige *Anmeldung bis spätestens zum 15.09.2019* an [melanie.stilz@uni-siegen.de](mailto:melanie.stilz@uni-siegen.de). Am 5.11 ab 19h findet ein informelles Kennenlernen statt zu dem alle herzlich eingeladen sind, der Ort wird in Kürze bekannt gegeben.
+Fab:UNIverse 2019 findet am 06.11.2019 ganztägig im Einstein Centre Digital Future (ECDF) im Herzen von Berlin statt. Aufgrund der begrenzten Plätze bitten wir um rechtzeitige *Anmeldung bis spätestens zum 15.10.2019* an [melanie.stilz@uni-siegen.de](mailto:melanie.stilz@uni-siegen.de). Am 5.11 ab 19h findet ein informelles Kennenlernen statt zu dem alle herzlich eingeladen sind, der Ort wird in Kürze bekannt gegeben.
 Das vorläufige Programm:
 
 
