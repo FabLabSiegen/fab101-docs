@@ -27,7 +27,7 @@ Beginn: 9:00Uhr
 | 11:15         | Workshop Phase I|
 | 12:30         | Mittagspause|
 | 13:30         | Workshop Phase II|
-| 15:00         | “1-Minute-Madness” - Lightning Talks|
+| 15:00         | “One-Minute-Madness” - Lightning Talks|
 | 15:30         | Kaffeepause|
 | 16:00         | Vorstellung der Workshop-Ergebnisse|
 | 16:45         | Podiumsdiskussion: "Hochschul-Digitalisierungsstrategie und Makerspaces"|
