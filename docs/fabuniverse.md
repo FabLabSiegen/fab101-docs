@@ -30,7 +30,7 @@ Beginn: 9:00Uhr
 | 15:00         | “One-Minute-Madness” - Lightning Talks|
 | 15:30         | Kaffeepause|
 | 16:00         | Vorstellung der Workshop-Ergebnisse|
-| 16:45         | Podiumsdiskussion: "Hochschul-Digitalisierungsstrategie und Makerspaces"|
+| 16:45         | Podiumsdiskussion: "Hochschul-Digitalisierungsstrategie und Fab Labs"|
 | 17:45         | Abschluss|
 
 Ende: 18:00Uhr
