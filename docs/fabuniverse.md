@@ -61,6 +61,7 @@ Wir bitten um *Anmeldung bis zum 15.09.2019* an [melanie.stilz@uni-siegen.de](ma
 Und hier nun wie versprochen die Ergebnisse unserer Workshops
 
 ### Governance
+
 ![](images/fabuniverse19-outcome/governance1.jpg)
 
 ![](images/fabuniverse19-outcome/governance2.jpg)
@@ -97,6 +98,6 @@ Und hier nun wie versprochen die Ergebnisse unserer Workshops
 
 ### Zukunft
 
-![](images/fabuniverse19-outcome/zukunft1.jpg)
+![](images/fabuniverse19-outcome/zukunft.jpg)
 
-![](images/fabuniverse19-outcome/zukunft2.jpg)
+<a href="images/fabuniverse19-outcome/zukunft.pdf">PDF mit weiteren Ergebnissen</a>
