@@ -1,9 +1,7 @@
 ![](images/tools.jpg)
 
-## Save the date - 06.11.2019
-
-!!! info     "Save the Date"
-    **Fab:UNIverse 2019 findet am 06. November 2019 im [ECDF in Berlin](https://www.digital-future.berlin/) statt!**  
+## Das war's
+Vielen lieben Dank an alle, die da waren! Es war uns ein großes Vergnügen mit euch den Tag zu verbringen! Die Ergebnisse findet ihr ganz unten auf dieser Seite. Viel Spaß und bis zum nächsten Jahr!
 
 ## Hintergrund
 
@@ -57,3 +55,49 @@ Wir bitten um *Anmeldung bis zum 15.09.2019* an [melanie.stilz@uni-siegen.de](ma
 
 
 ![](images/fab101.jpg)
+
+## Workshop-Ergebnisse
+
+Und hier nun wie versprochen die Ergebnisse unserer Workshops
+
+### Governance
+
+![](images/fabuniverse19-outcome/governance1.jpg)
+
+![](images/fabuniverse19-outcome/governance2.jpg)
+
+![](images/fabuniverse19-outcome/governance3.jpg)
+
+![](images/fabuniverse19-outcome/governance4.jpg)
+
+![](images/fabuniverse19-outcome/governance5.jpg)
+
+![](images/fabuniverse19-outcome/governance6.jpg)
+
+### Forschung und Dokumentation
+
+![](images/fabuniverse19-outcome/forschung_doku1.jpeg)
+
+![](images/fabuniverse19-outcome/forschung_doku2.jpeg)
+
+![](images/fabuniverse19-outcome/forschung_doku3.jpeg)
+
+![](images/fabuniverse19-outcome/forschung_doku4.jpeg)
+
+### Curriculum
+
+![](images/fabuniverse19-outcome/curriculum1.jpg)
+
+![](images/fabuniverse19-outcome/curriculum2.jpg)
+
+![](images/fabuniverse19-outcome/curriculum3.jpg)
+
+![](images/fabuniverse19-outcome/curriculum4.jpg)
+
+![](images/fabuniverse19-outcome/curriculum5.jpg)
+
+### Zukunft
+
+![](images/fabuniverse19-outcome/zukunft.jpg)
+
+<a href="images/fabuniverse19-outcome/zukunft.pdf">PDF mit weiteren Ergebnissen</a>
