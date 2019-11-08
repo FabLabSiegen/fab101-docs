@@ -62,9 +62,42 @@ Und hier nun wie versprochen die Ergebnisse unserer Workshops
 
 ### Governance
 
+![](images/fabuniverse19-outcome/governance1.jpg)
+
+![](images/fabuniverse19-outcome/governance2.jpg)
+
+![](images/fabuniverse19-outcome/governance3.jpg)
+
+![](images/fabuniverse19-outcome/governance4.jpg)
+
+![](images/fabuniverse19-outcome/governance5.jpg)
+
+![](images/fabuniverse19-outcome/governance6.jpg)
 
 ### Forschung und Dokumentation
 
+![](images/fabuniverse19-outcome/forschung_doku1.jpeg)
+
+![](images/fabuniverse19-outcome/forschung_doku2.jpeg)
+
+![](images/fabuniverse19-outcome/forschung_doku3.jpeg)
+
+![](images/fabuniverse19-outcome/forschung_doku4.jpeg)
+
 ### Curriculum
 
+![](images/fabuniverse19-outcome/curriculum1.jpg)
+
+![](images/fabuniverse19-outcome/curriculum2.jpg)
+
+![](images/fabuniverse19-outcome/curriculum3.jpg)
+
+![](images/fabuniverse19-outcome/curriculum4.jpg)
+
+![](images/fabuniverse19-outcome/curriculum5.jpg)
+
 ### Zukunft
+
+![](images/fabuniverse19-outcome/zukunft.jpg)
+
+<a href="images/fabuniverse19-outcome/zukunft.pdf">PDF mit weiteren Ergebnissen</a>
