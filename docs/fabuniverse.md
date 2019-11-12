@@ -56,6 +56,11 @@ Wir bitten um *Anmeldung bis zum 15.09.2019* an [melanie.stilz@uni-siegen.de](ma
 
 ![](images/fab101.jpg)
 
+## Keynote der Konferenz
+
+Wir freuen uns euch allen die Keynote von Prof. Borchers zur Verfügung zu stellen: ![](images/fabuniverse19-outcome/191106FabUniverseKeynoteBorchers.pdf)
+
+
 ## Workshop-Ergebnisse
 
 Und hier nun wie versprochen die Ergebnisse unserer Workshops
@@ -98,6 +103,6 @@ Und hier nun wie versprochen die Ergebnisse unserer Workshops
 
 ### Zukunft
 
-![](images/fabuniverse19-outcome/zukunft.jpg)
+![](images/fabuniverse19-outcome/zukunft.pdf)
 
 <a href="images/fabuniverse19-outcome/zukunft.pdf">PDF mit weiteren Ergebnissen</a>
