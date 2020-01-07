@@ -106,4 +106,4 @@ Und hier nun wie versprochen die Ergebnisse unserer Workshops
 
 ![](images/fabuniverse19-outcome/zukunft.pdf)
 
-<a href="images/fabuniverse19-outcome/zukunft.pdf">PDF mit weiteren Ergebnissen</a>
+<a href="https://fab101.de/images/fabuniverse19-outcome/zukunft.pdf">PDF mit weiteren Ergebnissen</a>
