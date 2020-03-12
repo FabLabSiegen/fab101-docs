@@ -1,4 +1,2 @@
 
-## Das Buch
-
 Stay tuned
