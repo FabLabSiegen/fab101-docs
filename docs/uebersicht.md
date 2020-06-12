@@ -16,11 +16,11 @@ Dank der Teilnahme zahlreicher Hochschulen an unseren Umfragen und Workshops run
 | Rhur Universität Bochum  | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
 | HRW Bottrop        | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
 | TH Brandenburg     | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
-| 15:00         | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
-| 15:30         | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
-| 16:00         | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
-| 16:45         | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
-| 17:45         | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
+| Hochschule         | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
+|Hochschule        | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
+|Hochschule       | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
+|Hochschule        | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
+|Hochschule       | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
 |Hochschule        | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
 |Hochschule        | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
 |Hochschule        | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
