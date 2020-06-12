@@ -1,10 +1,7 @@
 ![](images/tools.jpg)
 
-## Übersicht über Fab Labs und vergleichbare Orte an deutschen Hochschulen
+## Übersicht über Fab Labs und vergleichbare Orte an deutschen Hochschulen (coming soon!)
 Dank der Teilnahme zahlreicher Hochschulen an unseren Umfragen und Workshops rund um Fab:UNIverse konnten wir eine recht beeindruckende Liste zusammenstellen welche Fab Labs und vergleichbare Orte an deutschen Hochschulen bereits existieren und/oder in Planung sind:
-
-
-## Übersicht (coming soon!)
 
 **Wir freuen uns über Ergänzungen, Korrekturen & Updates**
 
