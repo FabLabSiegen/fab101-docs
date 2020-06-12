@@ -8,7 +8,6 @@ Dank der Teilnahme zahlreicher Hochschulen an unseren Umfragen und Workshops run
 
 
 |Hochschule        | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
-
 | ------------- |:-----------------------| 
 | RWTH Aachen   | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
 | Hochschule Augsburg | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
