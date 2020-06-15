@@ -29,6 +29,15 @@ Dank der Teilnahme zahlreicher Hochschulen an unseren Umfragen und Workshops run
 |Folkwang Universität der Künste | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
 |Hochschule Flensburg | FabLab Ideenreich | Angliederung | Finanzierung | Zugang | Lehre  |
 |Hochschule Fulda | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
+|Westfählische Hochschule | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
+|Kunsthochschule Halle | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
+|Helmut-Schmidt-Universität| Name          | Angliederung | Finanzierung | Zugang | Lehre  |
+|TU Hamburg | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
+|Duale Hochschule Baden-Württemberg| Name          | Angliederung | Finanzierung | Zugang | Lehre  |
+|Universität Jena| Name          | Angliederung | Finanzierung | Zugang | Lehre  |
+|Hochschule Rhein-Waal | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
+|Hochschule Konstanz | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
+|Universität zu Lübeck | Fab Lab Lübeck | Unabhängig, aber auf dem Campus | Finanzierung | Freier Zugang während Öffnungszeiten bzw nach Einweisung | Kooperation mit Lehrbetrieb  |
 |Hochschule        | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
 |Hochschule        | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
 |Hochschule        | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
@@ -36,6 +45,10 @@ Dank der Teilnahme zahlreicher Hochschulen an unseren Umfragen und Workshops run
 |Hochschule        | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
 |Hochschule        | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
 |Hochschule        | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
+|Hochschule        | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
+|Hochschule        | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
+|Hochschule        | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
+
 
 
 ## Das war Fab:UNIverse 2019
