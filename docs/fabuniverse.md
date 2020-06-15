@@ -13,8 +13,8 @@ Dank der Teilnahme zahlreicher Hochschulen an unseren Umfragen und Workshops run
 | Beuth Hochschule     | [Labor für Fertigungsverfahren der Mechatronik](https://labor.beuth-hochschule.de/fvm/fertigung/mechanische-fertigung/)| Angliederung | Finanzierung | Zugang | Lehre  |
 | TU Berlin       | [do it yourself & mechatronics lab](http://tatendrang.tu-berlin.de/wp/projekte/diy-mechatronics-lab/)| Studierendenprojekt / formell Institut für Berufliche Bildung und Arbeitslehre | Finanzierung | Zugang | Lehre  |
 | Rhur Universität Bochum  | [MakerForum](https://www.worldfactory.de/makerforum) | Angliederung | Finanzierung | Zugang | Lehre  |
-| HRW Bottrop        |[HRW FabLab](http://hrw-fablab.de/)| Angliederung | Finanzierung | Zugang | Lehre  |
-| TH Brandenburg     | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
+| Hochschule Rhur West |[HRW FabLab](http://hrw-fablab.de/)| Angliederung | Finanzierung | Zugang | Lehre  |
+| TH Brandenburg     | [Offene Werkstatt](https://offene-werkstatt.th-brandenburg.de/die-werkstatt/?S=814) | Angliederung | Finanzierung | Zugang | Lehre  |
 | Ostfalia Hochschule für angewandte Wissenschaften | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
 | Universität Bremen | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
 | FH Bremerhaven  | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
