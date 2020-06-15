@@ -38,14 +38,14 @@ Dank der Teilnahme zahlreicher Hochschulen an unseren Umfragen und Workshops run
 |Hochschule Rhein-Waal | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
 |Hochschule Konstanz | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
 |Universität zu Lübeck | Fab Lab Lübeck | Unabhängig, aber auf dem Campus | keine / eigenes Finanzkonzept | Freier Zugang während Öffnungszeiten bzw nach Einweisung | Kooperation mit Lehrbetrieb  |
-|Hochschule        | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
-|Hochschule        | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
-|Hochschule        | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
-|Hochschule        | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
-|Hochschule        | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
-|Hochschule        | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
-|Hochschule        | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
-|Hochschule        | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
+|Otto von Guericke Universität| Name          | Angliederung | Finanzierung | Zugang | Lehre  |
+|Hochschule Niederrhein | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
+|Hochschule Offenburg| Name          | Angliederung | Finanzierung | Zugang | Lehre  |
+|Universität Passau| EISLab| Angliederung | Finanzierung | Zugang | Lehre  |
+|Hochschule Bonn-Rhein-Sieg| Name          | Angliederung | Finanzierung | Zugang | Lehre  |
+|Universität Siegen | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
+|Akademie der Bildenden Künste Stuttgart| Name          | Angliederung | Finanzierung | Zugang | Lehre  |
+|Technische Hochschule Wildau| Name          | Angliederung | Finanzierung | Zugang | Lehre  |
 |Hochschule        | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
 |Hochschule        | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
 
