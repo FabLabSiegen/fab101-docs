@@ -23,6 +23,12 @@ Dank der Teilnahme zahlreicher Hochschulen an unseren Umfragen und Workshops run
 |TH Ostwestfalen-Lippe  | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
 |TU Dortmund | SELFMADE inklusiver Makerspace          | Angliederung | Finanzierung | Zugang | Lehre  |
 |TU Dresden | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
+|Universität Duisburg-Essen | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
+|Hochschule Emden | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
+|Friedrich-Alexander-Universität Erlangen-Nürnberg | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
+|Folkwang Universität der Künste | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
+|Hochschule Flensburg | FabLab Ideenreich | Angliederung | Finanzierung | Zugang | Lehre  |
+|Hochschule Fulda | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
 |Hochschule        | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
 |Hochschule        | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
 |Hochschule        | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
