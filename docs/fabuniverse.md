@@ -11,7 +11,7 @@ Dank der Teilnahme zahlreicher Hochschulen an unseren Umfragen und Workshops run
 | RWTH Aachen   | [Fab Lab Aachen](http://fablab-aachen.de) | Angliederung | Finanzierung | Zugang | Lehre  |
 | Hochschule Augsburg | [Fablab](https://www.hs-augsburg.de/Informatik/FabLab.html)  | Angliederung | Finanzierung | Zugang | Lehre  |
 | Beuth Hochschule     | [Labor für Fertigungsverfahren der Mechatronik](https://labor.beuth-hochschule.de/fvm/fertigung/mechanische-fertigung/)| Angliederung | Finanzierung | Zugang | Lehre  |
-| TU Berlin       | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
+| TU Berlin       | [do it yourself & mechatronics lab](http://tatendrang.tu-berlin.de/wp/projekte/diy-mechatronics-lab/)| Studierendenprojekt / formell Institut für Berufliche Bildung und Arbeitslehre | Finanzierung | Zugang | Lehre  |
 | Rhur Universität Bochum  | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
 | HRW Bottrop        | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
 | TH Brandenburg     | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
