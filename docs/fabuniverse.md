@@ -9,7 +9,7 @@ Dank der Teilnahme zahlreicher Hochschulen an unseren Umfragen und Workshops run
 | Hochschule        | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
 | ------------- |:-----------------|:-------------|:--------------|:-------------|:-------------|  
 | RWTH Aachen   | [Fab Lab Aachen](http://fablab-aachen.de) | Angliederung | Finanzierung | Zugang | Lehre  |
-| Hochschule Augsburg | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
+| Hochschule Augsburg | [Fablab](https://www.hs-augsburg.de/Informatik/FabLab.html)  | Angliederung | Finanzierung | Zugang | Lehre  |
 | Beuth Hochschule     | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
 | TU Berlin       | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
 | Rhur Universität Bochum  | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
