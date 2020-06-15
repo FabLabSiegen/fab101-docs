@@ -1,6 +1,6 @@
 ![](images/tools.jpg)
 
-## Übersicht über Fab Labs und vergleichbare Orte an deutschen Hochschulen (coming soon!)
+## Übersicht über Fab Labs und vergleichbare Orte an deutschen Hochschulen (work in progress...)
 Dank der Teilnahme zahlreicher Hochschulen an unseren Umfragen und Workshops rund um Fab:UNIverse konnten wir eine recht beeindruckende Liste zusammenstellen welche Fab Labs und vergleichbare Orte an deutschen Hochschulen bereits existieren und/oder in Planung sind:
 
 **Wir freuen uns über Ergänzungen, Korrekturen & Updates**
@@ -37,7 +37,7 @@ Dank der Teilnahme zahlreicher Hochschulen an unseren Umfragen und Workshops run
 |Universität Jena| Name          | Angliederung | Finanzierung | Zugang | Lehre  |
 |Hochschule Rhein-Waal | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
 |Hochschule Konstanz | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
-|Universität zu Lübeck | Fab Lab Lübeck | Unabhängig, aber auf dem Campus | Finanzierung | Freier Zugang während Öffnungszeiten bzw nach Einweisung | Kooperation mit Lehrbetrieb  |
+|Universität zu Lübeck | Fab Lab Lübeck | Unabhängig, aber auf dem Campus | keine / eigenes Finanzkonzept | Freier Zugang während Öffnungszeiten bzw nach Einweisung | Kooperation mit Lehrbetrieb  |
 |Hochschule        | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
 |Hochschule        | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
 |Hochschule        | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
