@@ -15,14 +15,14 @@ Dank der Teilnahme zahlreicher Hochschulen an unseren Umfragen und Workshops run
 | Rhur Universität Bochum  | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
 | HRW Bottrop        | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
 | TH Brandenburg     | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
-| Hochschule         | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
-|Hochschule        | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
-|Hochschule       | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
-|Hochschule        | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
-|Hochschule       | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
-|Hochschule        | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
-|Hochschule        | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
-|Hochschule        | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
+| Ostfalia Hochschule für angewandte Wissenschaften | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
+| Universität Bremen | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
+| FH Bremerhaven  | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
+|Hochschule Coburg | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
+|TU Darmstadt| Name          | Angliederung | Finanzierung | Zugang | Lehre  |
+|TH Ostwestfalen-Lippe  | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
+|TU Dortmund | SELFMADE inklusiver Makerspace          | Angliederung | Finanzierung | Zugang | Lehre  |
+|TU Dresden | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
 |Hochschule        | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
 |Hochschule        | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
 |Hochschule        | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
