@@ -31,10 +31,10 @@ Dank der Teilnahme zahlreicher Hochschulen an unseren Umfragen und Workshops run
 |Hochschule Fulda | [MakerSpace](https://www.hs-fulda.de/angewandte-informatik/makerspace) | Angliederung | Finanzierung | Zugang | Lehre  |
 |Westfählische Hochschule |[Halle1](https://halle1wh.de/) | Angliederung | Finanzierung | Zugang | Lehre  |
 |Kunsthochschule Halle | [Digitale Werkstatt](https://www.burg-halle.de/hochschule/einrichtungen/werkstaetten/a/digitale-werkstatt/)| Angliederung | Finanzierung | Zugang | Lehre  |
-|Helmut-Schmidt-Universität| Name          | Angliederung | Finanzierung | Zugang | Lehre  |
-|TU Hamburg | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
-|Duale Hochschule Baden-Württemberg| Name          | Angliederung | Finanzierung | Zugang | Lehre  |
-|Universität Jena| Name          | Angliederung | Finanzierung | Zugang | Lehre  |
+|Helmut-Schmidt-Universität| [OpenLab Hamburg](http://openlab-hamburg.de/)| Angliederung | Finanzierung | Zugang | Lehre  |
+|TU Hamburg | [FabLab@TUHH](https://www.tuhh.de/fablab/startseite.html) | Angliederung | Finanzierung | Zugang | Lehre  |
+|Duale Hochschule Baden-Württemberg| [FabLab](https://www.heidenheim.dhbw.de/labore/fablab.html)| Angliederung | Finanzierung | Zugang | Lehre  |
+|Universität Jena| [Lichtwerkstatt Jena](https://lichtwerkstatt-jena.de/)| Angliederung | Finanzierung | Zugang | Lehre  |
 |Hochschule Rhein-Waal | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
 |Hochschule Konstanz | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
 |Universität zu Lübeck | Fab Lab Lübeck | Unabhängig, aber auf dem Campus | keine / eigenes Finanzkonzept | Freier Zugang während Öffnungszeiten bzw nach Einweisung | Kooperation mit Lehrbetrieb  |
