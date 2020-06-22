@@ -23,11 +23,11 @@ Dank der Teilnahme zahlreicher Hochschulen an unseren Umfragen und Workshops run
 |TH Ostwestfalen-Lippe  | [FABLAB OWL](https://www.th-owl.de/fablab/)|Angliederung | Finanzierung | Zugang | Lehre  |
 |TU Dortmund | [SELFMADE](http://www.selfmade.fk13.tu-dortmund.de/cms/de/SELFMADE/) | Angliederung | Finanzierung | Zugang | Lehre  |
 |TU Dresden | [SLUB Makerspace](https://www.slub-dresden.de/service/arbeitsplaetze-arbeitsraeume/makerspace/) | Angliederung | Finanzierung | Zugang | Lehre  |
-|Universität Duisburg-Essen | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
-|Hochschule Emden | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
-|Friedrich-Alexander-Universität Erlangen-Nürnberg | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
-|Folkwang Universität der Künste | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
-|Hochschule Flensburg | FabLab Ideenreich | Angliederung | Finanzierung | Zugang | Lehre  |
+|Universität Duisburg-Essen |[3D-FabLab](https://www.uni-due.de/fertigungstechnik/lehre_fablab.php)  | Angliederung | Finanzierung | Zugang | Lehre  |
+|Hochschule Emden | [FabLab der Hochschule Emden](https://www.hs-emden-leer.de/studierende/fachbereiche/technik/labore/fablab)| Angliederung | Finanzierung | Zugang | Lehre  |
+|Friedrich-Alexander-Universität Erlangen-Nürnberg | [FAU FabLab](https://fablab.fau.de/) | Angliederung | Finanzierung | Zugang | Lehre  |
+|Folkwang Universität der Künste | [Advanced Technology LAB](https://id.folkwang-uni.de/werkstatten/advanced-technology-lab/)| Angliederung | Finanzierung | Zugang | Lehre  |
+|Hochschule Flensburg | [FabLab Ideenreich](https://hs-flensburg.de/hochschule/organisation/einrichtungen/fablab-ideenreich) | Angliederung | Finanzierung | Zugang | Lehre  |
 |Hochschule Fulda | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
 |Westfählische Hochschule | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
 |Kunsthochschule Halle | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
