@@ -20,7 +20,7 @@ Dank der Teilnahme zahlreicher Hochschulen an unseren Umfragen und Workshops run
 | FH Bremerhaven  | [Fährhaus](https://www.hs-bremerhaven.de/service/standort/faehrhaus/) | Angliederung | Finanzierung | Zugang | Lehre  |
 |Hochschule Coburg | [CREAPOLIS](https://www.hs-coburg.de/ueber-uns/profil/creapolis.html#c6713)| Angliederung | Finanzierung | Zugang | Lehre  |
 |TU Darmstadt| [FabLab Darmstadt](https://www.fablab.tu-darmstadt.de/fablab_classic/lab_classic/index.de.jsp) | Angliederung | Finanzierung | Zugang | Lehre  |
-|TH Ostwestfalen-Lippe  | [FABLAB|OWL](https://www.th-owl.de/fablab/) Angliederung | Finanzierung | Zugang | Lehre  |
+|TH Ostwestfalen-Lippe  | [FABLAB OWL](https://www.th-owl.de/fablab/) Angliederung | Finanzierung | Zugang | Lehre  |
 |TU Dortmund | SELFMADE inklusiver Makerspace          | Angliederung | Finanzierung | Zugang | Lehre  |
 |TU Dresden | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
 |Universität Duisburg-Essen | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
