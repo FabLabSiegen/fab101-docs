@@ -28,9 +28,9 @@ Dank der Teilnahme zahlreicher Hochschulen an unseren Umfragen und Workshops run
 |Friedrich-Alexander-Universität Erlangen-Nürnberg | [FAU FabLab](https://fablab.fau.de/) | Angliederung | Finanzierung | Zugang | Lehre  |
 |Folkwang Universität der Künste | [Advanced Technology LAB](https://id.folkwang-uni.de/werkstatten/advanced-technology-lab/)| Angliederung | Finanzierung | Zugang | Lehre  |
 |Hochschule Flensburg | [FabLab Ideenreich](https://hs-flensburg.de/hochschule/organisation/einrichtungen/fablab-ideenreich) | Angliederung | Finanzierung | Zugang | Lehre  |
-|Hochschule Fulda | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
-|Westfählische Hochschule | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
-|Kunsthochschule Halle | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
+|Hochschule Fulda | [MakerSpace](https://www.hs-fulda.de/angewandte-informatik/makerspace) | Angliederung | Finanzierung | Zugang | Lehre  |
+|Westfählische Hochschule |[Halle1](https://halle1wh.de/) | Angliederung | Finanzierung | Zugang | Lehre  |
+|Kunsthochschule Halle | [Digitale Werkstatt](https://www.burg-halle.de/hochschule/einrichtungen/werkstaetten/a/digitale-werkstatt/)| Angliederung | Finanzierung | Zugang | Lehre  |
 |Helmut-Schmidt-Universität| Name          | Angliederung | Finanzierung | Zugang | Lehre  |
 |TU Hamburg | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
 |Duale Hochschule Baden-Württemberg| Name          | Angliederung | Finanzierung | Zugang | Lehre  |
