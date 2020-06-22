@@ -17,8 +17,8 @@ Dank der Teilnahme zahlreicher Hochschulen an unseren Umfragen und Workshops run
 | TH Brandenburg     | [Offene Werkstatt](https://offene-werkstatt.th-brandenburg.de/die-werkstatt/?S=814) | Angliederung | Finanzierung | Zugang | Lehre  |
 | Ostfalia Hochschule für angewandte Wissenschaften | [FabLab](https://www.ostfalia.de/cms/de/zaf/taetigkeit/fablab-38/) | transdisziplinäres Zentrum für additive Fertigung (ZaF) | Keine Angaben |Studierende und Mitarbeiter. Externe nach Absprache | Keine Angaben dazu |
 | Universität Bremen | [TechKreativ](http://dimeb.informatik.uni-bremen.de/techkreativ/)| Angliederung | Finanzierung | Zugang | Lehre  |
-| FH Bremerhaven  | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
-|Hochschule Coburg | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
+| FH Bremerhaven  | [Fährhaus](https://www.hs-bremerhaven.de/service/standort/faehrhaus/) | Angliederung | Finanzierung | Zugang | Lehre  |
+|Hochschule Coburg | [CREAPOLIS](https://www.hs-coburg.de/ueber-uns/profil/creapolis.html#c6713)| Angliederung | Finanzierung | Zugang | Lehre  |
 |TU Darmstadt| Name          | Angliederung | Finanzierung | Zugang | Lehre  |
 |TH Ostwestfalen-Lippe  | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
 |TU Dortmund | SELFMADE inklusiver Makerspace          | Angliederung | Finanzierung | Zugang | Lehre  |
