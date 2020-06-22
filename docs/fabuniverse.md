@@ -35,8 +35,8 @@ Dank der Teilnahme zahlreicher Hochschulen an unseren Umfragen und Workshops run
 |TU Hamburg | [FabLab@TUHH](https://www.tuhh.de/fablab/startseite.html) | Angliederung | Finanzierung | Zugang | Lehre  |
 |Duale Hochschule Baden-Württemberg| [FabLab](https://www.heidenheim.dhbw.de/labore/fablab.html)| Angliederung | Finanzierung | Zugang | Lehre  |
 |Universität Jena| [Lichtwerkstatt Jena](https://lichtwerkstatt-jena.de/)| Angliederung | Finanzierung | Zugang | Lehre  |
-|Hochschule Rhein-Waal | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
-|Hochschule Konstanz | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
+|Hochschule Rhein-Waal | [FabLab Kamp-Lintfort](https://fablab.hochschule-rhein-waal.de/) | Angliederung | Finanzierung | Zugang | Lehre  |
+|Hochschule Konstanz |[Open Innovation Lab (OIL)](https://www.htwg-konstanz.de/hochschule/einrichtungen/open-innovation-lab/das-oil/) | Angliederung | Finanzierung | Zugang | Lehre  |
 |Universität zu Lübeck | Fab Lab Lübeck | Unabhängig, aber auf dem Campus | keine / eigenes Finanzkonzept | Freier Zugang während Öffnungszeiten bzw nach Einweisung | Kooperation mit Lehrbetrieb  |
 |Otto von Guericke Universität| Name          | Angliederung | Finanzierung | Zugang | Lehre  |
 |Hochschule Niederrhein | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
