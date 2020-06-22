@@ -38,16 +38,14 @@ Dank der Teilnahme zahlreicher Hochschulen an unseren Umfragen und Workshops run
 |Hochschule Rhein-Waal | [FabLab Kamp-Lintfort](https://fablab.hochschule-rhein-waal.de/) | Angliederung | Finanzierung | Zugang | Lehre  |
 |Hochschule Konstanz |[Open Innovation Lab (OIL)](https://www.htwg-konstanz.de/hochschule/einrichtungen/open-innovation-lab/das-oil/) | Angliederung | Finanzierung | Zugang | Lehre  |
 |Universität zu Lübeck | [Fab Lab Lübeck](https://www.fablab-luebeck.de/de) | Unabhängig, aber auf dem Campus | keine / eigenes Finanzkonzept | Freier Zugang während Öffnungszeiten bzw nach Einweisung | Kooperation mit Lehrbetrieb  |
-|Otto von Guericke Universität| [FabLab ego.-Inkubator] (https://www.tugz.ovgu.de/FabLab.html) | Angliederung | Finanzierung | Zugang | Lehre  |
+|Otto von Guericke Universität| [FabLab ego.-Inkubator](https://www.tugz.ovgu.de/FabLab.html) | Angliederung | Finanzierung | Zugang | Lehre  |
 |Hochschule Niederrhein | [Makerspace](https://www.hs-niederrhein.de/makerspace/)| Angliederung | Finanzierung | Zugang | Lehre  |
 |Hochschule Offenburg| [In Planung: Edu FabLab HSO](https://www.hs-offenburg.de/nc/news-detail/article/300000-eur-fuer-die-einrichtung-eines-hochschulweiten-fablabs/) | Angliederung | Finanzierung | Zugang | Lehre  |
 |Universität Passau| [EISLab](http://www.eislab.net/fablab.html#informationen)| Angliederung | Finanzierung | Zugang | Lehre  |
 |Hochschule Bonn-Rhein-Sieg| [FabLab](https://www.h-brs.de/de/fablab-interaktion-auf-dem-campus)| Angliederung | Finanzierung | Zugang | Lehre  |
 |Universität Siegen | [Fab Lab Siegen](https://fablab-siegen.de/)| Angliederung | Finanzierung | Zugang | Lehre  |
-|Akademie der Bildenden Künste Stuttgart| Name          | Angliederung | Finanzierung | Zugang | Lehre  |
-|Technische Hochschule Wildau| Name          | Angliederung | Finanzierung | Zugang | Lehre  |
-|Hochschule        | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
-|Hochschule        | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
+|Akademie der Bildenden Künste Stuttgart| Im Aufbau | Angliederung | Finanzierung | Zugang | Lehre  |
+|Technische Hochschule Wildau| [ViNN:Lab (Venture Innovation Lab)(https://vinnlab.th-wildau.de/)]| Angliederung | Finanzierung | Zugang | Lehre  |
 
 
 
