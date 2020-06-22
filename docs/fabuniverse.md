@@ -9,7 +9,7 @@ Dank der Teilnahme zahlreicher Hochschulen an unseren Umfragen und Workshops run
 | Hochschule        | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
 | ------------- |:-----------------|:-------------|:--------------|:-------------|:-------------|  
 | RWTH Aachen   | [Fab Lab Aachen](http://fablab-aachen.de) | Institut für Informatik | Haushaltsmittel & Drittmittel | Studierende des FB. Andere Studierende und Externe (Open Lab Day) nach Einweisung | Verankerung in der Lehre (Informatik) / FabAcademy  |
-| Hochschule Augsburg | [Fablab](https://www.hs-augsburg.de/Informatik/FabLab.html)  | Angliederung | Finanzierung | Zugang | Lehre  |
+| Hochschule Augsburg | [Fablab](https://www.hs-augsburg.de/Informatik/FabLab.html)  | Fakultät für Informatik | keine Angaben dazu | Alle Studierende nach Anmeldung und Einweisung | keine Angaben dazu|
 | Beuth Hochschule     | [Labor für Fertigungsverfahren der Mechatronik](https://labor.beuth-hochschule.de/fvm/fertigung/mechanische-fertigung/)| Angliederung | Finanzierung | Zugang | Lehre  |
 | TU Berlin       | [do it yourself & mechatronics lab](http://tatendrang.tu-berlin.de/wp/projekte/diy-mechatronics-lab/)| Studierendenprojekt / formell Institut für Berufliche Bildung und Arbeitslehre | Finanzierung | Zugang | Lehre  |
 | Rhur Universität Bochum  | [MakerForum](https://www.worldfactory.de/makerforum) | Angliederung | Finanzierung | Zugang | Lehre  |
