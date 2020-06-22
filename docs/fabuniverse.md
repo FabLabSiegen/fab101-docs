@@ -21,7 +21,7 @@ Dank der Teilnahme zahlreicher Hochschulen an unseren Umfragen und Workshops run
 |Hochschule Coburg | [CREAPOLIS](https://www.hs-coburg.de/ueber-uns/profil/creapolis.html#c6713)| Angliederung | Finanzierung | Zugang | Lehre  |
 |TU Darmstadt| [FabLab Darmstadt](https://www.fablab.tu-darmstadt.de/fablab_classic/lab_classic/index.de.jsp) | Angliederung | Finanzierung | Zugang | Lehre  |
 |TH Ostwestfalen-Lippe  | [FABLAB OWL](https://www.th-owl.de/fablab/)|Angliederung | Finanzierung | Zugang | Lehre  |
-|TU Dortmund | [SELFMADE] (http://www.selfmade.fk13.tu-dortmund.de/cms/de/SELFMADE/) | Angliederung | Finanzierung | Zugang | Lehre  |
+|TU Dortmund | [SELFMADE](http://www.selfmade.fk13.tu-dortmund.de/cms/de/SELFMADE/) | Angliederung | Finanzierung | Zugang | Lehre  |
 |TU Dresden | [SLUB Makerspace](https://www.slub-dresden.de/service/arbeitsplaetze-arbeitsraeume/makerspace/) | Angliederung | Finanzierung | Zugang | Lehre  |
 |Universität Duisburg-Essen | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
 |Hochschule Emden | Name          | Angliederung | Finanzierung | Zugang | Lehre  |
