@@ -45,7 +45,7 @@ Dank der Teilnahme zahlreicher Hochschulen an unseren Umfragen und Workshops run
 |Hochschule Bonn-Rhein-Sieg| [FabLab](https://www.h-brs.de/de/fablab-interaktion-auf-dem-campus)| Angliederung | Finanzierung | Zugang | Lehre  |
 |Universität Siegen | [Fab Lab Siegen](https://fablab-siegen.de/)| Angliederung | Finanzierung | Zugang | Lehre  |
 |Akademie der Bildenden Künste Stuttgart| Im Aufbau | Angliederung | Finanzierung | Zugang | Lehre  |
-|Technische Hochschule Wildau| [ViNN:Lab (Venture Innovation Lab)(https://vinnlab.th-wildau.de/)]| Angliederung | Finanzierung | Zugang | Lehre  |
+|Technische Hochschule Wildau| [ViNN:Lab (Venture Innovation Lab)](https://vinnlab.th-wildau.de/)| Angliederung | Finanzierung | Zugang | Lehre  |
 
 
 
