@@ -10,8 +10,8 @@ Dank der Teilnahme zahlreicher Hochschulen an unseren Umfragen und Workshops run
 | ------------- |:-----------------|:-------------|:--------------|:-------------|:-------------|  
 | RWTH Aachen   | [Fab Lab Aachen](http://fablab-aachen.de) | Institut für Informatik | Haushaltsmittel & Drittmittel | Studierende des FB. Andere Studierende und Externe (Open Lab Day) nach Einweisung | Verankerung in der Lehre (Informatik) / FabAcademy  |
 | Hochschule Augsburg | [Fablab](https://www.hs-augsburg.de/Informatik/FabLab.html)  | Fakultät für Informatik | keine Angaben | Alle Studierende nach Anmeldung und Einweisung | keine Angaben |
-| Beuth Hochschule     | [Labor für Fertigungsverfahren der Mechatronik](https://labor.beuth-hochschule.de/fvm/fertigung/mechanische-fertigung/)| Angliederung | Finanzierung | Zugang | Lehre  |
-| TU Berlin       | [do it yourself & mechatronics lab](http://tatendrang.tu-berlin.de/wp/projekte/diy-mechatronics-lab/)| Studierendenprojekt / formell Institut für Berufliche Bildung und Arbeitslehre | Finanzierung | Zugang | Lehre  |
+| Beuth Hochschule     | [Labor für Fertigungsverfahren der Mechatronik](https://labor.beuth-hochschule.de/fvm/fertigung/mechanische-fertigung/)| Fachbereich Elektrotechnik – Mechatronik – Optometrie | Haushaltsmittel | Studierende des FB. Andere Studierende nach Absprache | Verankerung in der Lehre (Mechatronik) |
+| TU Berlin       | [do it yourself & mechatronics lab](http://tatendrang.tu-berlin.de/wp/projekte/diy-mechatronics-lab/)| Studierendenprojekt / formell Institut für Berufliche Bildung und Arbeitslehre | Haushaltsmittel (Tutoren) | Freier Zugang während Öffnungszeiten | Freies Wahlangebot, Projektkurs für alle Studierenden  |
 | Rhur Universität Bochum  | [MakerForum](https://www.worldfactory.de/makerforum) | Angliederung | Finanzierung | Zugang | Lehre  |
 | Hochschule Rhur West |[HRW FabLab](http://hrw-fablab.de/)| Angliederung | Finanzierung | Zugang | Lehre  |
 | TH Brandenburg     | [Offene Werkstatt](https://offene-werkstatt.th-brandenburg.de/die-werkstatt/?S=814) | Angliederung | Finanzierung | Zugang | Lehre  |
