@@ -40,7 +40,7 @@ Complementing the interest in collecting useful data for people creating, managi
 
 ## Documentation & Photos
 
-tbd after the event.
+TBD after the event.
 
 
 ## Organizers
