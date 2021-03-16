@@ -80,7 +80,7 @@ Beginn: 9:00Uhr
 | 16:45         | Podiumsdiskussion: "Hochschul-Digitalisierungsstrategie und Fab Labs"|
 | 17:45         | Abschluss|
 
-Ende: 18:00Uhr
+Ende: 18:00 Uhr
 
 
 ## Ort und Anfahrt
