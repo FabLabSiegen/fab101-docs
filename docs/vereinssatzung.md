@@ -1,0 +1,1 @@
+[https://justiz.nrw.de/Gerichte_Behoerden/ordentliche_gerichte/FGG/Registersachen/Vereinssatzung/index.php](https://justiz.nrw.de/Gerichte_Behoerden/ordentliche_gerichte/FGG/Registersachen/Vereinssatzung/index.php)
