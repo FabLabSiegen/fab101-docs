@@ -1,6 +1,6 @@
 
 
-## Handbuch Fab Labs: Einrichtung, Finanzierung, Betrieb, Forschung & Lehre
+## Einrichtung, Finanzierung, Betrieb, Forschung & Lehre
 
 
 
@@ -18,7 +18,7 @@ Die Autor*innen betreiben seit Jahren erfolgreiche Fab Labs an (Kunst-)Universit
 
 ## ab jetzt erhältlich bei [https://www.bombini-verlag.de/](https://www.bombini-verlag.de/shop/handbuch-fab-labs/#cc-m-product-7363789359)
 
-![](images/handbuchfablabs_cover.jpg?v=4&s=100)
+[![](images/handbuchfablabs_cover.jpg?v=4&s=100)](https://www.bombini-verlag.de/shop/handbuch-fab-labs/#cc-m-product-7363789359)
 
 256 Seiten, Hardcore, Fadenheftung, vierfarbig, auf Munken (Lynx Rough, zartweiß)-Papier gedruckt
 ISBN  978-3-946496-26-7 
