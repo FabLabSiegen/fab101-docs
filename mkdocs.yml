@@ -6,7 +6,7 @@ site_name: 'FAB101'
 
 nav:
     - Das Projekt: 'index.md'
-    - Zum Buch: 'buch.md'
+    - Handbuch FabLabs: 'buch.md'
     - English Summary: 'english.md'
     - Die Partner: 'konsortium.md'
 #   - Publikationen: 'publikationen.md'
