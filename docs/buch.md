@@ -1,4 +1,4 @@
-![](images/handbuchfablabs_cover.jpg){:height="50%" width="50%"}
+![](images/handbuchfablabs_cover.jpg?v=4&s=200)
 
 ## Handbuch Fab Labs: Einrichtung, Finanzierung, Betrieb, Forschung & Lehre
 
