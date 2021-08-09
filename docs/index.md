@@ -1,7 +1,6 @@
 ## News
 
-Das Handbuch Fab Labs: Einrichtung, Finanzierung, Betrieb, Forschung & Lehre ist beim Bombini Verlag erschienen.
-> [Zur Buchseite](buch) 
+[Das Handbuch Fab Labs: Einrichtung, Finanzierung, Betrieb, Forschung & Lehre ist beim Bombini Verlag erschienen.](buch) 
 
 ## Kurzbeschreibung
 
