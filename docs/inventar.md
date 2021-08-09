@@ -3,8 +3,8 @@
 Firma/Fabrikat|Verfahren|Preisklasse
 ----|----|----
 Prusa i3 MK3|FDM|unter 1000€
-Ultimaker 2 oder 3|FDM|~2000-5000€
-Stratasys Dimension|FDM|>10000€
+Ultimaker 2 oder 3|FDM|~ 2000 - 5000€
+Stratasys Dimension|FDM|> 10000€
 
 3.3.1.2 Laserschneider
 
