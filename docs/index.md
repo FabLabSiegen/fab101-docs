@@ -1,3 +1,8 @@
+## News
+
+Das Handbuch Fab Labs: Einrichtung, Finanzierung, Betrieb, Forschung & Lehre ist beim Bombini Verlag erschienen.
+> [Zur Buchseite](buch) 
+
 ## Kurzbeschreibung
 
 Aufgabe des Forschungsverbundes FAB101 ist es, in interdisziplinärer Zusammenarbeit Konzepte zu einer studiengangs- und hochschulübergreifenden Lehre in Laboren zur Digitalen Fabrikation (sog. [Fab Labs](https://de.wikipedia.org/wiki/FabLab)) praxisnah zu beforschen. Hierbei wird ausgehend von den Fab Labs an den beteiligten Hochschulstandorten gearbeitet. Das Projekt ist Teil der Digitalisierungsstrategien der jeweiligen Hochschulen.
